@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Guntur Dharma Putra"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://gdputra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Guntur Dharma Putra"
+description              : &description "PhD candidate in Computer Science and Engineering, UNSW Sydney"
+url                      : http://gdputra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gdputra/gdputra.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,9 +85,9 @@ author:
   bio              : ""
   location         : "Sydney, Australia"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=L_dr0dIAAAAJ&hl=en"
-  email            :
+  email            : "gdputra@unsw.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : ""
+  linkedin         : "guntur-dharma-putra"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : "gunturdputra"
   vine             :
   weibo            :
   xing             :
