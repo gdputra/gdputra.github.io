@@ -10,7 +10,7 @@ author_profile: true
 2020
 ----
 - M. S. Ali, M. Vecchio, G. D. Putra, S. S. Kanhere, and F. Antonelli, [A Decentralized Peer-to-Peer Remote Health Monitoring System](https://doi.org/10.3390/s20061656), in **Sensors**, vol. 20, no. 6, March 2020. [Q2, IF: 3.03]
-- G. D. Putra, V. Dedeoglu, S. S. Kanhere, and R. Jurdak, Towards Scalable and Trustworthy Decentralized Collaborative Intrusion Detection System for IoT, poster abstract in **Proceedings of the 6th ACM/IEEE International Conference on Internet-of-Things Design and Implementation (ACM/IEEE IoTDI 2020)**, Sydney, Australia, April 2020. [[Preprint](https://arxiv.org/abs/2002.07512)].
+- G. D. Putra, V. Dedeoglu, S. S. Kanhere, and R. Jurdak, Towards Scalable and Trustworthy Decentralized Collaborative Intrusion Detection System for IoT, poster paper in **Proceedings of the 6th ACM/IEEE International Conference on Internet-of-Things Design and Implementation (ACM/IEEE IoTDI 2020)**, Sydney, Australia, April 2020. [[Preprint](https://arxiv.org/abs/2002.07512)].
 - G. D. Putra, V. Dedeoglu, S. S. Kanhere, and R. Jurdak, Trust Management in Decentralized IoT Access Control System, in **Proceedings of the 2nd IEEE International Conference on Blockchain and Cryptocurrency (IEEE ICBC 2020)**, Toronto, Canada, May 2020. [[Preprint](https://arxiv.org/abs/1912.10247)]. [AR: 22%]
 
 2019
