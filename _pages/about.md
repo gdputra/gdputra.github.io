@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Guntur is a full-time PhD Student at the University of New South Wales, Sydney, Australia. His research focus is on blockchain related applications.
+Short Bio
+---------
 
-Guntur is also with Department of Electrical and Information Engineering, Universitas Gadjah Mada, Indonesia, as teaching staff. He received his Master's Degree in Computing Science from the University of Groningen, the Netherlands in 2017.
+Guntur is a full-time PhD Student at the University of New South Wales, Sydney, Australia. His research focuses on blockchain related applications in IoT.
+
+Guntur is also with Department of Electrical and Information Engineering, Universitas Gadjah Mada, Indonesia. He received his Master's Degree in Computing Science from the University of Groningen, the Netherlands in 2017.
