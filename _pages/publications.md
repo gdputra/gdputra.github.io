@@ -7,8 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+2021
+----
+- J. Meijers, G. D. Putra, G. Kotsialou, S. S. Kanhere, and A. Veneris, [Cost-Effective Blockchain-based IoT Data Marketplaces with a Credit Invariant](https://www.eecg.utoronto.ca/~veneris/21icbc1.pdf), to appear in **Proceedings of the 3rd IEEE International Conference on Blockchain and Cryptocurrency (IEEE ICBC 2021)**, Sydney, Australia, May 2021. [[Preprint](https://www.eecg.utoronto.ca/~veneris/21icbc1.pdf)]. [AR: 18%]
+
 2020
 ----
+- C. Vestergaard, E. Obbard, E. Yu, G. D. Putra, and G. Green, [SLAFKA: Demonstrating the Potential for Distributed Ledger Technology for Nuclear Safeguards Information Management](https://www.jstor.org/stable/resrep27757), **Research Report**, Stimson Center, Washington, DC, November, 2020.
 - E. Yu, G. D. Putra, G. B. Green, C. Vestergaard, and E. Obbard, [The SLUMBAT Demo of Blockchain Based Nuclear Safeguards](https://doi.org/10.1080/00223131.2020.1858990), in **Journal of Nuclear Science and Technology**, December 2020. [Q2, IF: 1.29]
 - M. S. Ali, M. Vecchio, G. D. Putra, S. S. Kanhere, and F. Antonelli, [A Decentralized Peer-to-Peer Remote Health Monitoring System](https://doi.org/10.3390/s20061656), in **Sensors**, vol. 20, no. 6, March 2020. [Q2, IF: 3.03]
 - G. D. Putra, V. Dedeoglu, S. S. Kanhere, and R. Jurdak, [Towards Scalable and Trustworthy Decentralized Collaborative Intrusion Detection System for IoT](10.1109/IoTDI49375.2020.00035), poster paper in **Proceedings of the 6th ACM/IEEE International Conference on Internet-of-Things Design and Implementation (ACM/IEEE IoTDI 2020)**, Sydney, Australia, April 2020. [[Preprint](https://arxiv.org/abs/2002.07512)].
