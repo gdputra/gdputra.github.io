@@ -7,9 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+Please find the full list of my papers on [Google Scholar](https://scholar.google.com.au/citations?user=L_dr0dIAAAAJ&hl=en).
+
+Preprint
+--------
+- N. Ahmed, R. A. Michelin, W. Xue, G. D. Putra, S. Ruj, S. S. Kanhere, S. Jha, [DIMY: Enabling Privacy-preserving Contact Tracing](https://arxiv.org/abs/2103.05873), *under review in IEEE Transactions on Services Computing*. [[Preprint](https://arxiv.org/abs/2103.05873)].
+- G. D. Putra, V. Dedeoglu, S. S. Kanhere, R. Jurdak, A. Ignjatovic, [Trust-based Blockchain Authorization for IoT](https://arxiv.org/abs/2104.00832), *under review in IEEE Transactions on Network and Service Management*. [[Preprint](https://arxiv.org/abs/2104.00832)].
+
 2021
 ----
-- N. Ahmed, R. A. Michelin, W. Xue, G. D. Putra, S. Ruj, S. S. Kanhere, S. Jha, [DIMY: Enabling Privacy-preserving Contact Tracing](https://arxiv.org/abs/2103.05873), under review in IEEE Transactions on Services Computing. [[Preprint](https://arxiv.org/abs/2103.05873)].
 - N. Ahmed, R. A. Michelin, W. Xue, G. D. Putra, W. Song, S. Ruj, S. S. Kanhere, S. Jha, [Towards Privacy-preservingDigital Contact Tracing](#), Demo Paper to appear in **Proceedings of the 3rd IEEE International Conference on Blockchain and Cryptocurrency (IEEE ICBC 2021)**.
 - J. Meijers, G. D. Putra, G. Kotsialou, S. S. Kanhere, and A. Veneris, [Cost-Effective Blockchain-based IoT Data Marketplaces with a Credit Invariant](https://www.eecg.utoronto.ca/~veneris/21icbc1.pdf), to appear in **Proceedings of the 3rd IEEE International Conference on Blockchain and Cryptocurrency (IEEE ICBC 2021)**, Sydney, Australia, May 2021. [[Preprint](https://www.eecg.utoronto.ca/~veneris/21icbc1.pdf)]. [AR: 18%]
 
