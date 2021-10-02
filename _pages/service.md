@@ -17,6 +17,7 @@ Membership
 Reviewers
 ---------
 - **Conferences**:
+  - IEEE International Conference on Computer Communications 2022 (INFOCOM)
   - IEEE International Conference on Communications 2020 (ICC)
   - IEEE International Conference on Blockchain and Cryptocurrency 2020 (ICBC)
   - IEEE International Conference on Blockchain and Cryptocurrency 2021 (ICBC)
@@ -27,5 +28,6 @@ Reviewers
   - IEEE Internet of Things Magazine
   - IEEE Internet of Things Journal
   - IEEE Transactions on Network and Service Managements
+  - IEEE Security and Privacy
   - Pervasive and Mobile Computing, Elsevier
   - Computer Communications, Elsevier
