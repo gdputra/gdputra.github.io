@@ -17,6 +17,7 @@ Preprint
 
 2021
 ----
+- E. Obbard, E. Yu, and G.D. Putra, [Blockchain Tools for Nuclear Safeguards](https://doi.org/10.1007/978-3-030-86240-4_4), in **Blockchain for International Security**, pp 37-54, October 2021. Part of the Advanced Sciences and Technologies for Security Applications book series (ASTSA). Springer, Cham.
 - G. D. Putra, V. Dedeoglu, A. Pathak, S. S. Kanhere, and R. Jurdak, [Decentralised Trustworthy Collaborative Intrusion Detection System for IoT](https://arxiv.org/abs/2110.11177), to appear in **Proceedings of 2021 IEEE International Conference on Blockchain (Blockchain), 2021**, Melbourne, Australia, December 2021. [[Preprint](https://arxiv.org/abs/2110.11177)]. [AR: 24.7%]
 - G. D. Putra, V. Dedeoglu, S. S. Kanhere, R. Jurdak, A. Ignjatovic, [Trust-based Blockchain Authorization for IoT](https://doi.org/10.1109/TNSM.2021.3077276), in **IEEE Transactions on Network and Service Management**, Vol 18, Issue 2, June 2021, pp 1646-1658. [[Preprint](https://arxiv.org/abs/2104.00832)].
 - N. Ahmed, R. A. Michelin, W. Xue, G. D. Putra, W. Song, S. Ruj, S. S. Kanhere, S. Jha, [Towards Privacy-preservingDigital Contact Tracing](https://doi.org/10.1109/ICBC51069.2021.9461052), Demo Paper in **Proceedings of the 3rd IEEE International Conference on Blockchain and Cryptocurrency (IEEE ICBC 2021)**.
