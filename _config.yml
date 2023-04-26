@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guntur Dharma Putra"
+title                    : "Guntur D Putra"
 title_separator          : "-"
 name                     : &name "Guntur Dharma Putra"
-description              : &description "PhD candidate in Computer Science and Engineering, UNSW Sydney"
+description              : &description "Assistant Professor at Universitas Gadjah Mada"
 url                      : https://gdputra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gdputra/gdputra.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Guntur D Putra"
   avatar           : "2022-square.jpg"
-  bio              : ""
-  location         : "Sydney, Australia"
+  bio              : "Assistant Professor at Universitas Gadjah Mada, Indonesia"
+  location         : "Yogyakarta, Indonesia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=L_dr0dIAAAAJ&hl=en"
-  email            : "gdputra@unsw.edu.au"
+  email            : "gdputra@ugm.ac.id"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "guntur-dharma-putra"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0001-9832-5388" 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
