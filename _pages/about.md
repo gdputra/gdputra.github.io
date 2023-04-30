@@ -14,10 +14,13 @@ Research Interest
 -----------------
 My research mainly revolves around blockchain related applications in securing the Internet of Things. I am also interested in distributed systems and applications of machine learning algorithms.
 
+I am always open for collaborations. Feel free to drop me an [email](mailto:gdputra@ugm.ac.id).
+
 What's New
 ----------
 - [March 2023] Received research funding from the Department of EIE: PHD Program.
-- [February 2023] My paper about [trust managements in 6G-IoT](https://eprints.qut.edu.au/238213/1/Privacy_preserving_Trust_Management_ICBC_2023.pdf) is accepted to IEEE's flagship conference on blockchain, [IEEE ICBC 2023, Dubai](https://icbc2023.ieee-icbc.org/)!
+- [February 2023] My paper about [trust managements in 6G-IoT](https://eprints.qut.edu.au/238213/1/Privacy_preserving_Trust_Management_ICBC_2023.pdf) is accepted to IEEE's flagship conference on blockchain, [IEEE ICBC 2023](https://icbc2023.ieee-icbc.org/), Dubai!
 - [February 2023] Returned to Universitas Gadjah Mada with full academic responsibilities.
 - [December 2022] My PhD degree is officially conferred!
+- [September 2022] Started a new role at UNSW Sydney as a Research Associate.
 - [September 2022] Visited [9th HLF](https://www.heidelberg-laureate-forum.org/) in Heidelberg, Germany, as one of the young researchers invitees.
