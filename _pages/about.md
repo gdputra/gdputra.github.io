@@ -18,7 +18,8 @@ I am always open for collaborations. Feel free to drop me an [email](mailto:gdpu
 
 What's New
 ----------
-- [March 2023] Received research funding from the Department of EIE: PHD Program.
+- [May 2023] Received a competitive research grant for recent PhD graduates! Funded by the Directorate of Research UGM ([Direktorat Penelitian](https://penelitian.ugm.ac.id/)).
+- [March 2023] Received research funding from the [Department of EIE](https://jteti.ugm.ac.id/): PHD Program.
 - [February 2023] My paper about [trust managements in 6G-IoT](https://eprints.qut.edu.au/238213/1/Privacy_preserving_Trust_Management_ICBC_2023.pdf) is accepted to IEEE's flagship conference on blockchain, [IEEE ICBC 2023](https://icbc2023.ieee-icbc.org/), Dubai!
 - [February 2023] Returned to Universitas Gadjah Mada with full academic responsibilities.
 - [December 2022] My PhD degree is officially conferred!
