@@ -13,7 +13,12 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 
 2023
 ----
-- <b>[Privacy-preserving Trust Management for Blockchain-based Resource Sharing in 6G-IoT](https://eprints.qut.edu.au/238213/1/Privacy_preserving_Trust_Management_ICBC_2023.pdf)</b>
+
+- <b>[Challenges in Designing Blockchain for Cyber-Physical Systems](https://dl.acm.org/doi/10.1145/3589648)</b>
+<br><b>Putra, G. D.</b>, Malik, S., Dedeoglu, V., Kanhere, S. S., & Jurdak, R.<br>
+<i>Communications of the ACM (<b>CACM</b>), July 2023, Vol. 66 No. 7, Pages 81-82.</i> <font color="#FF7F00">[Q1, IF: 8.4]</font>
+
+- <b>[Privacy-preserving Trust Management for Blockchain-based Resource Sharing in 6G-IoT](https://doi.org/10.1109/ICBC56567.2023.10174987)</b>
 <br><b>Putra, G. D.</b>, Dedeoglu, V., Kanhere, S. S., & Jurdak, R.<br>
 <i>2023 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>).</i> <font color="#FF1493">[AR: 18%]</font>
 
