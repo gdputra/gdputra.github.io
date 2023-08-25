@@ -18,6 +18,8 @@ I am always open for collaborations. Feel free to drop me an [email](mailto:gdpu
 
 What's New
 ----------
+- [August 2023] I will be joining *[IEEE Blockchain Conference 2023](https://ieee-cybermatics.org/2023/blockchain/)* as a TPC member!
+- [August 2023] Completed an industry collaboration project with IT Department of [PT Pupuk Kaltim](https://www.pupukkaltim.com/) (PKT), the largest urea fertilizer producer in Southeast Asia. The project involves utilization of AI/Machine Learning in PKT's business processes.
 - [May 2023] Received a competitive research grant for recent PhD graduates! Funded by the Directorate of Research UGM ([Direktorat Penelitian](https://penelitian.ugm.ac.id/)).
 - [March 2023] Received research funding from the [Department of EIE](https://jteti.ugm.ac.id/): PHD Program.
 - [February 2023] My paper about [trust managements in 6G-IoT](https://eprints.qut.edu.au/238213/1/Privacy_preserving_Trust_Management_ICBC_2023.pdf) is accepted to IEEE's flagship conference on blockchain, [IEEE ICBC 2023](https://icbc2023.ieee-icbc.org/), Dubai!
