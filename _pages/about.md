@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in [Information Technology](https://jteti.ugm.ac.id/) at [Universitas Gadjah Mada](https://ugm.ac.id/en). I obtained a PhD from the [University of New South Wales](https://www.unsw.edu.au/), under the joint supervision of [Prof Salil Kanhere](https://salilkanhere.net/), [Prof Raja Jurdak](http://jurdak.com/), and [Dr Volkan Dedeoglu](https://people.csiro.au/D/V/volkan-dedeoglu). I received a master's degree in Computing Science from the [University of Groningen](https://www.rug.nl/) in 2017 and a bachelor's degree in Electrical Engineering from [Universitas Gadjah Mada](https://ugm.ac.id/en) in 2014.
+Hi! I am an assistant professor in [Information Technology](https://jteti.ugm.ac.id/) at [Universitas Gadjah Mada](https://ugm.ac.id/en). Please see below for [my research interest](#research-interest).
+
+Previously, I obtained my PhD from the [University of New South Wales](https://www.unsw.edu.au/), under the joint supervision of [Prof Salil Kanhere](https://salilkanhere.net/), [Prof Raja Jurdak](http://jurdak.com/), and [Dr Volkan Dedeoglu](https://people.csiro.au/D/V/volkan-dedeoglu). I received my master's degree in Computing Science from the [University of Groningen](https://www.rug.nl/) in 2017 and bachelor's degree in Electrical Engineering from [Universitas Gadjah Mada](https://ugm.ac.id/en) in 2014.
 
 Research Interest
 -----------------
-My research mainly revolves around blockchain related applications in securing the Internet of Things. I am also interested in distributed systems and applications of machine learning algorithms.
+My research mainly revolves around cyber-physical systems and applications of machine learning algorithms. Recently I have been exploring blockchain related applications in securing the internet of things and distributed systems in general.
 
 I am always open for collaborations. Feel free to drop me an [email](mailto:gdputra@ugm.ac.id).
 
