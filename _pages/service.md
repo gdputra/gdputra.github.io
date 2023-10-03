@@ -15,6 +15,8 @@ author_profile: true
 
 Reviewers
 ---------
+Please refer to my [Web of Science Profile](https://www.webofscience.com/wos/author/record/W-3040-2019) for more recent peer-review activities.
+
 - Conferences:
   - 2023: IEEE MetaCom, ICBC, IEEE Blockchain
   - 2022: ICBC, INFOCOM, Blockchain
