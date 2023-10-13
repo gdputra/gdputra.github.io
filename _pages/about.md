@@ -16,11 +16,13 @@ Research Interest
 -----------------
 My research mainly revolves around cyber-physical systems and applications of machine learning algorithms. Recently I have been exploring blockchain related applications in securing the internet of things and distributed systems in general.
 
-I am always open for collaborations. Feel free to drop me an [email](mailto:gdputra@ugm.ac.id).
+Available _**student projects**_ are listed on this [page](https://gdputra.github.io/research/).
+
+_I am always open for collaborations to anyone._ Feel free to drop me an [email](mailto:gdputra@ugm.ac.id).
 
 What's New
 ----------
-- [September 2023] I am thrilled and honored to be awarded a [Dean’s Award for Outstanding PhD Theses](https://www.inside.unsw.edu.au/academic-excellence/deans-award-outstanding-phd-theses-recipients-announced) from [UNSW Sydney](https://www.unsw.edu.au/)! I absolutely owe an immense debt of gratitude to my supervisors, Salil, Raja, and Volkan for this achievement!
+- [September 2023] I am thrilled and honored to be awarded a _[Dean’s Award for Outstanding PhD Theses](https://www.inside.unsw.edu.au/academic-excellence/deans-award-outstanding-phd-theses-recipients-announced)_ from [UNSW Sydney](https://www.unsw.edu.au/)! I absolutely owe an immense debt of gratitude to my supervisors, Salil, Raja, and Volkan for this achievement!
 - [August 2023] I will be joining *[IEEE Blockchain Conference 2023](https://ieee-cybermatics.org/2023/blockchain/)* as a TPC member!
 - [August 2023] Completed an industry collaboration project with IT Department of [PT Pupuk Kaltim](https://www.pupukkaltim.com/) (PKT), the largest urea fertilizer producer in Southeast Asia. The project involves utilization of AI/Machine Learning in PKT's business processes.
 - [May 2023] Received a competitive research grant for recent PhD graduates! Funded by the Directorate of Research UGM ([Direktorat Penelitian](https://penelitian.ugm.ac.id/)).
