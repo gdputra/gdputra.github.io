@@ -25,12 +25,12 @@ Please refer to my [Web of Science Profile](https://www.webofscience.com/wos/aut
   - 2020: IEEE DAPPS, ICBC, ICC
 
 - Journals:
-  - Pervasive and Mobile Computing, Elsevier (8)
-  - Journal of Information Security and Applications, Elsevier (3)
-  - Ad Hoc Networks, Elsevier (1)
-  - Applied Ergonomics, Elsevier (1)
-  - Computer Communications, Elsevier (1)
-  - Computer Networks, Elsevier (1)
+  - Elsevier - Pervasive and Mobile Computing (8)
+  - Elsevier - Journal of Information Security and Applications (3)
+  - Elsevier - Ad Hoc Networks (1)
+  - Elsevier - Applied Ergonomics (1)
+  - Elsevier - Computer Communications (1)
+  - Elsevier - Computer Networks (1)
   - IEEE Transactions on Network and Service Managements (7)
   - IEEE Computer Magazine (4)
   - IEEE Transactions on Vehicular Technology (4)
@@ -39,6 +39,6 @@ Please refer to my [Web of Science Profile](https://www.webofscience.com/wos/aut
   - IEEE Access (1)
   - IEEE Security and Privacy (1)
   - ACM Transactions on Internet of Things (1)
-  - Journal of Network and System Management, Springer (2)
-  - iScience, Cell Press (1)
-  - Wireless Communications and Mobile Computing, Wiley-Hindawi (1)
+  - Springer - Journal of Network and System Management (2)
+  - Cell Press - iScience (1)
+  - Wiley-Hindawi - Wireless Communications and Mobile Computing (1)
