@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am an assistant professor in [Information Technology](https://jteti.ugm.ac.id/) at [Universitas Gadjah Mada](https://ugm.ac.id/en). Please see below for [my research interest](#research-interest).
 
-Previously, I obtained my PhD from the [University of New South Wales](https://www.unsw.edu.au/), under the joint supervision of [Prof Salil Kanhere](https://salilkanhere.net/), [Prof Raja Jurdak](http://jurdak.com/), and [Dr Volkan Dedeoglu](https://people.csiro.au/D/V/volkan-dedeoglu). I received my master's degree in Computing Science from the [University of Groningen](https://www.rug.nl/) in 2017 and bachelor's degree in Electrical Engineering from [Universitas Gadjah Mada](https://ugm.ac.id/en) in 2014.
+Previously, I obtained my PhD from the [University of New South Wales](https://www.unsw.edu.au/), where I received the [Dean’s Award for Outstanding PhD Theses](https://www.inside.unsw.edu.au/academic-excellence/deans-award-outstanding-phd-theses-recipients-announced), under the joint supervision of [Prof Salil Kanhere](https://salilkanhere.net/), [Prof Raja Jurdak](http://jurdak.com/), and [Dr Volkan Dedeoglu](https://people.csiro.au/D/V/volkan-dedeoglu). I received my master's degree in Computing Science from the [University of Groningen](https://www.rug.nl/) in 2017 and bachelor's degree in Electrical Engineering from [Universitas Gadjah Mada](https://ugm.ac.id/en) in 2014.
 
 Research Interest
 -----------------
