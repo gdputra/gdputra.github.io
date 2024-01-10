@@ -22,6 +22,8 @@ _I am always open for collaborations to anyone._ Feel free to drop me an [email]
 
 What's New
 ----------
+- [January 2024] Officially appointed as [Professional Engineers of Indonesia](https://www.pii.or.id/) by [PSPPI FT UGM](https://psppi.ft.ugm.ac.id/).
+- [January 2024]  Welcome [Sani](https://github.com/mufidussani) and [Sena](https://github.com/adyasena) to our research team! Ale will be joining our team upon his arrival from Russia early next month. [They all](https://github.com/orgs/dteti-sys-rsch/people) will be working on their thesis in the coming months, good luck!
 - [September 2023] I am thrilled and honored to be awarded a _[Dean’s Award for Outstanding PhD Theses](https://www.inside.unsw.edu.au/academic-excellence/deans-award-outstanding-phd-theses-recipients-announced)_ from [UNSW Sydney](https://www.unsw.edu.au/)! I absolutely owe an immense debt of gratitude to my supervisors, Salil, Raja, and Volkan for this achievement!
 - [August 2023] I will be joining *[IEEE Blockchain Conference 2023](https://ieee-cybermatics.org/2023/blockchain/)* as a TPC member!
 - [August 2023] Completed an industry collaboration project with IT Department of [PT Pupuk Kaltim](https://www.pupukkaltim.com/) (PKT), the largest urea fertilizer producer in Southeast Asia. The project involves utilization of AI/Machine Learning in PKT's business processes.
