@@ -8,22 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an assistant professor in [Information Technology](https://jteti.ugm.ac.id/) at [Universitas Gadjah Mada](https://ugm.ac.id/en). Please see below for [my research interest](#research-interest).
+Hi! I am an assistant professor in [Information Technology](https://jteti.ugm.ac.id/) at [Universitas Gadjah Mada](https://ugm.ac.id/en).
+
+My research mainly revolves around cyber-physical systems and applications of machine learning algorithms. Recently I have been exploring blockchain related applications in securing the internet of things and distributed systems in general.
 
 Previously, I obtained my PhD from the [University of New South Wales](https://www.unsw.edu.au/), where I received the [Dean’s Award for Outstanding PhD Theses](https://www.inside.unsw.edu.au/academic-excellence/deans-award-outstanding-phd-theses-recipients-announced), under the joint supervision of [Prof Salil Kanhere](https://salilkanhere.net/), [Prof Raja Jurdak](http://jurdak.com/), and [Dr Volkan Dedeoglu](https://people.csiro.au/D/V/volkan-dedeoglu). I received my master's degree in Computing Science from the [University of Groningen](https://www.rug.nl/) in 2017 and bachelor's degree in Electrical Engineering from [Universitas Gadjah Mada](https://ugm.ac.id/en) in 2014.
 
 We host our research as open-source projects on our [GitHub organization](https://github.com/dteti-sys-rsch). Please have a look!
 
-Research Interest
------------------
-My research mainly revolves around cyber-physical systems and applications of machine learning algorithms. Recently I have been exploring blockchain related applications in securing the internet of things and distributed systems in general.
+Available Projects
+------------------
+_I am always open for collaborations with anyone. Students, academics, institutions, you name it._ Feel free to drop me an [email](mailto:gdputra@ugm.ac.id).
 
-Available _**student projects**_ are listed on this [page](https://gdputra.github.io/research/).
-
-_I am always open for collaborations to anyone._ Feel free to drop me an [email](mailto:gdputra@ugm.ac.id).
+Available _**student projects**_ are listed on this [page](https://gdputra.github.io/research/). Other ideas are also welcome. [Email](mailto:gdputra@ugm.ac.id) me for further details.
 
 What's New
 ----------
+- [May 2024] Received a research grant from the Directorate of Research UGM ([Direktorat Penelitian](https://penelitian.ugm.ac.id/)): RTA Grant 2024.
+- [March 2024] Received research funding from the [Department of EIE](https://jteti.ugm.ac.id/): PHD Program 2024.
 - [January 2024] Officially appointed as [Professional Engineers of Indonesia](https://www.pii.or.id/) by [PSPPI FT UGM](https://psppi.ft.ugm.ac.id/).
 - [January 2024]  Welcome [Sani](https://github.com/mufidussani) and [Sena](https://github.com/adyasena) to our research team! Ale will be joining our team upon his arrival from Russia early next month. [They all](https://github.com/orgs/dteti-sys-rsch/people) will be working on their thesis in the coming months, good luck!
 - [September 2023] I am thrilled and honored to be awarded a _[Dean’s Award for Outstanding PhD Theses](https://www.inside.unsw.edu.au/academic-excellence/deans-award-outstanding-phd-theses-recipients-announced)_ from [UNSW Sydney](https://www.unsw.edu.au/)! I absolutely owe an immense debt of gratitude to my supervisors, Salil, Raja, and Volkan for this achievement!
