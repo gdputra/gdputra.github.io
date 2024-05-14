@@ -18,7 +18,7 @@ Reviewers
 Please refer to my [Web of Science Profile](https://www.webofscience.com/wos/author/record/W-3040-2019) for more recent peer-review activities.
 
 - Conferences:
-  - 2024: PerCom, IEEE ICBC, IEEE Blockchain
+  - 2024: IEEE PerCom, IEEE ICBC, IEEE Blockchain, IEEE Metacom
   - 2023: IEEE MetaCom, ICBC, IEEE Blockchain
   - 2022: ICBC, INFOCOM, Blockchain
   - 2021: ICDCS, ICBC, IEEE MASS, BRAINS, LCN, ISCC
