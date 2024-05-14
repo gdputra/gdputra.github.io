@@ -12,6 +12,7 @@ author_profile: true
 - Member, IEEE Communications Society
 - Member, IEEE Computer Society
 - Member, Association for Computing Machinery (ACM)
+- Member, The Institution of Engineers Indonesia (PII)
 
 Reviewers
 ---------
