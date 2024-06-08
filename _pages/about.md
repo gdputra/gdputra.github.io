@@ -24,6 +24,8 @@ Available _**student projects**_ are listed on this [page](https://gdputra.githu
 
 What's New
 ----------
+- [June 2024] Received funding from the Directorate of Higher Education, Ministry of Education, Culture, Research, and Technology ([DIKTI](https://dikti.kemdikbud.go.id/)): Hibah Penelitian Fundamental 2024.
+- [May 2024] Received funding from the Faculty of Engineering UGM ([FT UGM](https://ft.ugm.ac.id/)): Hibah Komersialisasi Produk 2024.
 - [May 2024] Received a research grant from the Directorate of Research UGM ([Direktorat Penelitian](https://penelitian.ugm.ac.id/)): RTA Grant 2024.
 - [March 2024] Received research funding from the [Department of EIE](https://jteti.ugm.ac.id/): PHD Program 2024.
 - [January 2024] Officially appointed as [Professional Engineers of Indonesia](https://www.pii.or.id/) by [PSPPI FT UGM](https://psppi.ft.ugm.ac.id/).
