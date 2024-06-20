@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am an assistant professor in [Information Technology](https://jteti.ugm.ac.id/) at [Universitas Gadjah Mada](https://ugm.ac.id/en).
 
-My research mainly revolves around cyber-physical systems and applications of machine learning algorithms. Recently I have been exploring blockchain related applications in securing the internet of things and distributed systems in general.
+My research mainly revolves around _cyber-physical systems_ and _applications of machine learning algorithms_. In the past few years, I have been exploring _blockchain_ related applications in _securing the internet of things_ and _distributed systems_ in general. Quite recently, I am also exploring the _applications of machine learning in the field of climate and energy_.
 
 Previously, I obtained my PhD from the [University of New South Wales](https://www.unsw.edu.au/), where I received the [Dean’s Award for Outstanding PhD Theses](https://www.inside.unsw.edu.au/academic-excellence/deans-award-outstanding-phd-theses-recipients-announced), under the joint supervision of [Prof Salil Kanhere](https://salilkanhere.net/), [Prof Raja Jurdak](http://jurdak.com/), and [Dr Volkan Dedeoglu](https://people.csiro.au/D/V/volkan-dedeoglu). I received my master's degree in Computing Science from the [University of Groningen](https://www.rug.nl/) in 2017 and bachelor's degree in Electrical Engineering from [Universitas Gadjah Mada](https://ugm.ac.id/en) in 2014.
 
