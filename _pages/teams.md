@@ -21,6 +21,16 @@ Research Associate
     </div>
 </div>
 
+Master's Students
+-----------------
+<div class="clearfix">
+    <div class="img-container">
+        <img src="../images/teams/dimas.jpeg" style="width:120px;height:120px"> <br>
+        <a href="#" target="_blank">Dimas Arief Rahman Kurniawan</a> <br>
+        <font size="2">Topic: multi-modal AI assistant for billing management (PLN).</font>
+    </div>
+</div>
+
 Bachelor's Students
 -------------------
 <div class="clearfix">
