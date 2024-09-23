@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an assistant professor in [Information Technology](https://jteti.ugm.ac.id/) at [Universitas Gadjah Mada](https://ugm.ac.id/en).
+Hi! I am an assistant professor in Information Technology and the head of IT Research Facility at [Department of Electrical and Information Engineering](https://jteti.ugm.ac.id/), [Universitas Gadjah Mada](https://ugm.ac.id/en).
 
 My research mainly revolves around _cyber-physical systems_ and _applications of machine learning algorithms_. In the past few years, I have been exploring _blockchain_ related applications in _securing the internet of things_ and _distributed systems_ in general. Quite recently, I am also exploring the _applications of machine learning in the field of climate and energy_.
 
@@ -24,6 +24,8 @@ Available _**student projects**_ are listed on this [page](https://gdputra.githu
 
 What's New
 ----------
+- [September 2024] Attended a workshop about Integrated Water Management in China, organized by Hangzhou Regional Center for Small Hydro Power ([HRC](https://www.hrcshp.org/)), funded by Ministry of Commerce, People's Republic of China ([MOFCOM](http://english.mofcom.gov.cn/)).
+- [August 2024] Received research grant from Australia Awards Indonesia ([AAI](https://www.australiaawardsindonesia.org/news/detail/244000484/australia-awards-in-indonesia-grant-opportunity-opens-for-alumni-and-scholars)): Australian Alumni Grants 2024.
 - [June 2024] Received funding from the Directorate of Higher Education, Ministry of Education, Culture, Research, and Technology ([DIKTI](https://dikti.kemdikbud.go.id/)): Hibah Penelitian Fundamental 2024.
 - [May 2024] Received funding from the Faculty of Engineering UGM ([FT UGM](https://ft.ugm.ac.id/)): Hibah Komersialisasi Produk 2024.
 - [May 2024] Received a research grant from the Directorate of Research UGM ([Direktorat Penelitian](https://penelitian.ugm.ac.id/)): RTA Grant 2024.
