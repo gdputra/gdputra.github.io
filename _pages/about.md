@@ -24,6 +24,7 @@ Available _**student projects**_ are listed on this [page](https://gdputra.githu
 
 What's New
 ----------
+- [December 2024] Received an award of [the most favorite lecturer](https://www.instagram.com/stories/highlights/17951790980903561/) at [ENFORIAN Awarding Night 2024](https://www.instagram.com/enforianugm/).
 - [September 2024] Attended a workshop about Integrated Water Management in China, organized by Hangzhou Regional Center for Small Hydro Power ([HRC](https://www.hrcshp.org/)), funded by Ministry of Commerce, People's Republic of China ([MOFCOM](http://english.mofcom.gov.cn/)).
 - [August 2024] Received research grant from Australia Awards Indonesia ([AAI](https://www.australiaawardsindonesia.org/news/detail/244000484/australia-awards-in-indonesia-grant-opportunity-opens-for-alumni-and-scholars)): Australian Alumni Grants 2024.
 - [June 2024] Received funding from the Directorate of Higher Education, Ministry of Education, Culture, Research, and Technology ([DIKTI](https://dikti.kemdikbud.go.id/)): Hibah Penelitian Fundamental 2024.
