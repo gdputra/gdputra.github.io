@@ -72,23 +72,6 @@ Bachelor's Students
         <font size="2">Topic: fault tolerant web services using blockchain.</font>
     </div>
 </div>
-<!-- <div class="clearfix">
-    <div class="img-container">
-        <img src="../images/teams/sani.png" style="width:120px;height:120px"> <br>
-        <a href="https://www.linkedin.com/in/mufidussani/" target="_blank">Mufidus Sani</a> <br>
-        <font size="2">Topic: decentralized emission trading system.</font>
-    </div>
-    <div class="img-container">
-        <img src="../images/teams/sena.png" style="width:120px;height:120px"> <br>
-        <a href="https://www.linkedin.com/in/adyasena/" target="_blank">Adya Sena Pamungkas</a> <br>
-        <font size="2">Topic: blockchain-based Domain Name System.</font>
-    </div>
-    <div class="img-container">
-    <img src="../images/teams/ale.png" style="width:120px;height:120px"> <br>
-    <a href="https://www.linkedin.com/in/christianale/" target="_blank">Christian Ale Perdana</a> <br>
-    <font size="2">Topic: interoperability of self-sovereign identities.</font>
-    </div>
-</div> -->
 
 Research Asistant
 -----------------
@@ -99,41 +82,6 @@ Research Asistant
     <font size="2">Project: endorsement-driven ssi for iot.</font>
     </div>
 </div>
-<!-- <div class="clearfix">
-    <div class="img-container">
-        <img src="../images/teams/novaldy.jpeg" style="width:120px;height:120px"> <br>
-        <a href="#" target="_blank">Mochammad Novaldy Pratama Hakim</a> <br>
-        <font size="2">Project: interoperability in siloed medical records.</font>
-    </div>
-    <div class="img-container">
-        <img src="../images/teams/maul.jpeg" style="width:120px;height:120px"> <br>
-        <a href="https://www.linkedin.com/in/maulana-anjari-anggorokasih/" target="_blank">Maulana Anjari Anggorokasih</a> <br>
-        <font size="2">Project: interoperability in siloed medical records.</font>
-    </div>
-    <div class="img-container">
-    <img src="../images/teams/muqtada.jpeg" style="width:120px;height:120px"> <br>
-    <a href="https://www.linkedin.com/in/muhammad-muqtada-alhaddad-b02b44195/" target="_blank">Muhammad Muqtada Alhaddad</a> <br>
-    <font size="2">Project: cloud-based digital signage system.</font>
-    </div>
-</div>
-
-<div class="clearfix">
-    <div class="img-container">
-        <img src="../images/teams/fathan.jpeg" style="width:120px;height:120px"> <br>
-        <a href="https://www.linkedin.com/in/muhammadfathanzahir/" target="_blank">Muhammad Fathan Zahir</a> <br>
-        <font size="2">Project: cloud-based digital signage system.</font>
-    </div>
-    <div class="img-container">
-        <img src="../images/teams/daniyal.jpeg" style="width:120px;height:120px"> <br>
-        <a href="https://www.linkedin.com/in/mdaniyalk/" target="_blank">Muchammad Daniyal Kautsar</a> <br>
-        <font size="2">Project: gait-based person reidentification.</font>
-    </div>
-    <div class="img-container">
-    <img src="../images/teams/raka.jpeg" style="width:120px;height:120px"> <br>
-    <a href="https://id.linkedin.com/in/bagus-rakadyanto-oktavianto-putra-0b0839221" target="_blank">Bagus Rakadyanto Oktavianto Putra</a> <br>
-    <font size="2">Project: gait-based person reidentification.</font>
-    </div>
-</div> -->
 
 Alumni
 -----------------
