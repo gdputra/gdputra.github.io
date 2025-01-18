@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an assistant professor in Information Technology and the head of IT Research Facility at [Department of Electrical and Information Engineering](https://jteti.ugm.ac.id/), [Universitas Gadjah Mada](https://ugm.ac.id/en).
+Hi! I am an assistant professor in Information Technology at [Department of Electrical and Information Engineering](https://jteti.ugm.ac.id/), [Universitas Gadjah Mada](https://ugm.ac.id/en).
 
 My research mainly revolves around _cyber-physical systems_ and _applications of machine learning algorithms_. In the past few years, I have been exploring _blockchain_ related applications in _securing the internet of things_ and _distributed systems_ in general. Quite recently, I am also exploring the _applications of machine learning in the field of climate and energy_.
 
