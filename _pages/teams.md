@@ -40,6 +40,23 @@ Master's Students
         <font size="2">Topic: anomaly detection in AMR data with machine learning (PLN).</font>
     </div>
 </div>
+<div class="clearfix">
+    <div class="img-container">
+        <img src="../images/teams/lazuardi.jpeg" style="width:120px;height:120px"> <br>
+        <a href="https://id.linkedin.com/in/lazuardi-imam-santosa-872071296" target="_blank">Lazuardi Imam Santosa</a> <br>
+        <font size="2">Topic: decentralized digital forensic.</font>
+    </div>
+    <div class="img-container">
+        <img src="../images/teams/godwin.jpeg" style="width:120px;height:120px"> <br>
+        <a href="https://gh.linkedin.com/in/godwin-amoako-atta-a0083699" target="_blank">Godwin Amoako Atta</a> <br>
+        <font size="2">Topic: decentralized identities for secure communication.</font>
+    </div>
+    <div class="img-container">
+        <img src="../images/teams/sigit.jpeg" style="width:120px;height:120px"> <br>
+        <a href="https://id.linkedin.com/in/sigit-bayu-cahyanto" target="_blank">Sigit Bayu Cahyanto</a> <br>
+        <font size="2">Topic: privacy preserving federated learning.</font>
+    </div>
+</div>
 
 Bachelor's Students
 -------------------
