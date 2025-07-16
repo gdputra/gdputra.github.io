@@ -22,6 +22,10 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 <br>Akmal, A.Z., Pratama, A.R., & <b>Putra, G. D.</b><br>
 <i>2025 IEEE International Conference on Metaverse Computing, Networking, and Applications (<b>MetaCom</b>)</i>
 
+- <b>[
+Endorsement-Driven Blockchain SSI Framework for Dynamic IoT Ecosystems](https://doi.org/10.48550/arXiv.2507.09859)</b>
+<br><b>Putra, G. D.</b> & Putra, B.R.O.<br>
+<i>2025 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>)</i>
 
 2023
 ----
