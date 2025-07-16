@@ -19,12 +19,12 @@ Reviewers
 Please refer to my [Web of Science Profile](https://www.webofscience.com/wos/author/record/W-3040-2019) for more recent peer-review activities.
 
 - Conferences:
-  - 2025: IEEE PerCom, IEEE ICBC, IEEE DAPPS
-  - 2024: IEEE PerCom, IEEE ICBC, IEEE Blockchain, IEEE Metacom, IEEE TrustCom
-  - 2023: IEEE MetaCom, IEEE ICBC, IEEE Blockchain
-  - 2022: IEEE ICBC, INFOCOM, Blockchain
-  - 2021: IEEE ICDCS, IEEE ICBC, IEEE MASS, BRAINS, IEEE LCN, ISCC
-  - 2020: IEEE DAPPS, ICBC, ICC
+  - 2025: PerCom, ICBC, DAPPS, Blockchain, TrustCom
+  - 2024: PerCom, ICBC, Blockchain, MetaCom, TrustCom
+  - 2023: MetaCom, ICBC, Blockchain
+  - 2022: ICBC, INFOCOM, Blockchain
+  - 2021: ICDCS, ICBC, MASS, BRAINS, LCN, ISCC
+  - 2020: DAPPS, ICBC, ICC
 
 - Journals:
   - Elsevier - Pervasive and Mobile Computing (8)
