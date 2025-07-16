@@ -11,6 +11,18 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 
 ------
 
+2025
+----
+
+- <b>[TruChain: A Multi-Layer Architecture for Trusted, Verifiable, and Immutable Open Banking Data](https://doi.org/10.48550/arXiv.2507.08286)</b>
+<br>Rahman, A. N., Hantono, B.S., & <b>Putra, G. D.</b><br>
+<i>2025 IEEE International Conference on Metaverse Computing, Networking, and Applications (<b>MetaCom</b>)</i>
+
+- <b>[Fast and Interactive Byzantine Fault-tolerant Web Services via Session-Based Consensus Decoupling](https://doi.org/10.48550/arXiv.2507.08281)</b>
+<br>Akmal, A.Z., Pratama, A.R., & <b>Putra, G. D.</b><br>
+<i>2025 IEEE International Conference on Metaverse Computing, Networking, and Applications (<b>MetaCom</b>)</i>
+
+
 2023
 ----
 
