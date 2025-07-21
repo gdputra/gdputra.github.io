@@ -42,6 +42,7 @@ Please refer to my [Web of Science Profile](https://www.webofscience.com/wos/aut
   - IEEE Access (1)
   - IEEE Security and Privacy (1)
   - ACM Transactions on Internet of Things (1)
+  - ACM Transactions on Internet Technology (1)
   - Springer - Journal of Network and System Management (2)
   - Cell Press - iScience (1)
   - Wiley-Hindawi - Wireless Communications and Mobile Computing (1)
