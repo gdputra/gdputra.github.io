@@ -29,11 +29,12 @@ Available _**student projects**_ are listed on this [page](https://gdputra.githu
 
 What's New
 ----------
-- [July 2023] I will be joining *[IEEE Blockchain Conference 2025](https://ieee-cybermatics.org/2025/blockchain/)* and *[IEEE TrustCom 2025](https://ieee-aiplus-2025.org/)* as a TPC member!
+- [July 2025] Received **research grant** from the Directorate General of Research and Development, Ministry of Higher Education, Science, and Technology (Direktorat Jenderal Riset dan Pengembangan, Kementerian Pendidikan Tinggi, Sains, dan Teknologi): [Program Hilirisasi Riset-Pengujian Model dan Prototipe 2025](https://bima.kemdiktisaintek.go.id/pengumuman)!
+- [July 2025] I will be joining *[IEEE Blockchain Conference 2025](https://ieee-cybermatics.org/2025/blockchain/)* and *[IEEE TrustCom 2025](https://ieee-aiplus-2025.org/)* as a TPC member!
 - [June 2025] Two of our papers got **ACCEPTED** at [**IEEE MetaCom 2025**](https://ieee-metacom.org/)! Big contratulations to Aufa and Zaki! Please find the pre-print on our [publications page](https://gdputra.github.io/publications/).
 - [April 2025] Visiting [Auckland University of Technology](https://www.aut.ac.nz/), New Zealand as a visiting researcher, initiating collaboration between UGM and AUT.
 - [March 2025] Our paper got **ACCEPTED** at [**IEEE ICBC 2025**](https://icbc2025.ieee-icbc.org/)! Titled: _"Endorsement-Driven Blockchain SSI Framework for Dynamic IoT Ecosystems"_ in which we propose a mechanism to allow more flexible SSI credentials issuance based on trust endorsement. Congratulations to my co-author, Raka!
-- [March 2025] Securet a research grant from from the [Department of EIE](https://jteti.ugm.ac.id/): PHD Program 2025.
+- [March 2025] Secured a **research grant** from from the [Department of EIE](https://jteti.ugm.ac.id/): PHD Program 2025.
 - [January 2025] Welcoming Bintang, Marsel, Raka, Aufa, and Zaki to [our research team](https://gdputra.github.io/teams/)! They will be working on their bachelor's thesis in a range of research topics.
 - [December 2024] Received an award of [the most favorite lecturer](https://www.instagram.com/stories/highlights/17951790980903561/) at [ENFORIAN Awarding Night 2024](https://www.instagram.com/enforianugm/).
 - [September 2024] Attended a workshop about Integrated Water Management in China, organized by Hangzhou Regional Center for Small Hydro Power ([HRC](https://www.hrcshp.org/)), funded by Ministry of Commerce, People's Republic of China ([MOFCOM](http://english.mofcom.gov.cn/)).
