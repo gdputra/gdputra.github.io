@@ -3,7 +3,7 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,25 +15,24 @@ My research mainly revolves around **_cyber-physical systems_** and **_applicati
 We list our publications [here](https://gdputra.github.io/publications/) and we host our research as open-source projects on our [GitHub organization](https://github.com/dteti-sys-rsch). Please have a look!
 
 ### Education
+
 PhD, [University of New South Wales](https://www.unsw.edu.au/), Australia. 2019-2022. <sup>[Dean’s Award for Outstanding PhD Theses](https://www.inside.unsw.edu.au/academic-excellence/deans-award-outstanding-phd-theses-recipients-announced).</sup> <br>
 MSc, [University of Groningen](https://www.rug.nl/), the Netherlands. 2015-2017. <br>
 ST, [Universitas Gadjah Mada](https://ugm.ac.id/en), Indonesia. 2009-2014.
 
+## Available Projects
 
-
-Available Projects
-------------------
 _I am always open for collaborations with anyone. Students, academics, institutions, you name it._ Feel free to drop me an [email](mailto:gdputra@ugm.ac.id).
 
 Available _**student projects**_ are listed on this [page](https://gdputra.github.io/research/). Other ideas are also welcome. [Email](mailto:gdputra@ugm.ac.id) me for further details.
 
-What's New
-----------
+## What's New
+
 - [July 2025] Received **research grant** from the Directorate General of Research and Development, Ministry of Higher Education, Science, and Technology (Direktorat Jenderal Riset dan Pengembangan, Kementerian Pendidikan Tinggi, Sains, dan Teknologi): [Program Hilirisasi Riset-Pengujian Model dan Prototipe 2025](https://bima.kemdiktisaintek.go.id/pengumuman)!
-- [July 2025] I will be joining *[IEEE Blockchain Conference 2025](https://ieee-cybermatics.org/2025/blockchain/)* and *[IEEE TrustCom 2025](https://ieee-aiplus-2025.org/)* as a TPC member!
+- [July 2025] I will be joining _[IEEE Blockchain Conference 2025](https://ieee-cybermatics.org/2025/blockchain/)_ and _[IEEE TrustCom 2025](https://ieee-aiplus-2025.org/)_ as a TPC member! [38.2% Acceptance Rate]
 - [June 2025] Two of our papers got **ACCEPTED** at [**IEEE MetaCom 2025**](https://ieee-metacom.org/)! Big contratulations to Aufa and Zaki! Please find the pre-print on our [publications page](https://gdputra.github.io/publications/).
 - [April 2025] Visiting [Auckland University of Technology](https://www.aut.ac.nz/), New Zealand as a visiting researcher, initiating collaboration between UGM and AUT.
-- [March 2025] Our paper got **ACCEPTED** at [**IEEE ICBC 2025**](https://icbc2025.ieee-icbc.org/)! Titled: _"Endorsement-Driven Blockchain SSI Framework for Dynamic IoT Ecosystems"_ in which we propose a mechanism to allow more flexible SSI credentials issuance based on trust endorsement. Congratulations to my co-author, Raka!
+- [March 2025] Our paper got **ACCEPTED** at [**IEEE ICBC 2025**](https://icbc2025.ieee-icbc.org/)! Titled: [_"Endorsement-Driven Blockchain SSI Framework for Dynamic IoT Ecosystems"_](https://ieeexplore.ieee.org/document/11114640) in which we propose a mechanism to allow more flexible SSI credentials issuance based on trust endorsement. Congratulations to my co-author, Raka!
 - [March 2025] Secured a **research grant** from from the [Department of EIE](https://jteti.ugm.ac.id/): PHD Program 2025.
 - [January 2025] Welcoming Bintang, Marsel, Raka, Aufa, and Zaki to [our research team](https://gdputra.github.io/teams/)! They will be working on their bachelor's thesis in a range of research topics.
 - [December 2024] Received an award of [the most favorite lecturer](https://www.instagram.com/stories/highlights/17951790980903561/) at [ENFORIAN Awarding Night 2024](https://www.instagram.com/enforianugm/).
@@ -44,9 +43,9 @@ What's New
 - [May 2024] Received a research grant from the Directorate of Research UGM ([Direktorat Penelitian](https://penelitian.ugm.ac.id/)): RTA Grant 2024.
 - [March 2024] Received research funding from the [Department of EIE](https://jteti.ugm.ac.id/): PHD Program 2024.
 - [January 2024] Officially appointed as [Professional Engineers of Indonesia](https://www.pii.or.id/) by [PSPPI FT UGM](https://psppi.ft.ugm.ac.id/).
-- [January 2024]  Welcome [Sani](https://github.com/mufidussani) and [Sena](https://github.com/adyasena) to our research team! Ale will be joining our team upon his arrival from Russia early next month. [They all](https://github.com/orgs/dteti-sys-rsch/people) will be working on their thesis in the coming months, good luck!
+- [January 2024] Welcome [Sani](https://github.com/mufidussani) and [Sena](https://github.com/adyasena) to our research team! Ale will be joining our team upon his arrival from Russia early next month. [They all](https://github.com/orgs/dteti-sys-rsch/people) will be working on their thesis in the coming months, good luck!
 - [September 2023] I am thrilled and honored to be awarded a _[Dean’s Award for Outstanding PhD Theses](https://www.inside.unsw.edu.au/academic-excellence/deans-award-outstanding-phd-theses-recipients-announced)_ from [UNSW Sydney](https://www.unsw.edu.au/)! I absolutely owe an immense debt of gratitude to my supervisors, Salil, Raja, and Volkan for this achievement!
-- [August 2023] I will be joining *[IEEE Blockchain Conference 2023](https://ieee-cybermatics.org/2023/blockchain/)* as a TPC member!
+- [August 2023] I will be joining _[IEEE Blockchain Conference 2023](https://ieee-cybermatics.org/2023/blockchain/)_ as a TPC member!
 - [August 2023] Completed an industry collaboration project with IT Department of [PT Pupuk Kaltim](https://www.pupukkaltim.com/) (PKT), the largest urea fertilizer producer in Southeast Asia. The project involves utilization of AI/Machine Learning in PKT's business processes.
 - [May 2023] Received a competitive research grant for recent PhD graduates! Funded by the Directorate of Research UGM ([Direktorat Penelitian](https://penelitian.ugm.ac.id/)).
 - [March 2023] Received research funding from the [Department of EIE](https://jteti.ugm.ac.id/): PHD Program.
