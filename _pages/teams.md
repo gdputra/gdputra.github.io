@@ -45,7 +45,7 @@ _Undergraduate research project._
 
 ## Research Assistant
 
-**Muhammad Khoirunas** - [LinkedIn](#https://www.linkedin.com/in/khoirunas/)  
+**Muhammad Khoirunas** - [LinkedIn](https://www.linkedin.com/in/khoirunas/)  
 _Current projects and research support._
 
 ## Past Members
