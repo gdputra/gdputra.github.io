@@ -118,4 +118,4 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 
 ---
 
-_The journal rank (Q4-Q1) and the conference rank (C-A\*) presented above are retrived from [ScimagoJR](https://www.scimagojr.com/) and [CORE](http://portal.core.edu.au/conf-ranks/) respectively. Please consult the [ScimagoJR website](https://www.scimagojr.com/) and [CORE website](http://www.core.edu.au/conference-portal) for more detailed assessment methods._
+_The journal rank (Q4-Q1) and the conference rank (C-A\*) presented above are retrieved from [ScimagoJR](https://www.scimagojr.com/) and [CORE](http://portal.core.edu.au/conf-ranks/) respectively. Please consult the [ScimagoJR website](https://www.scimagojr.com/) and [CORE website](http://www.core.edu.au/conference-portal) for more detailed assessment methods._
