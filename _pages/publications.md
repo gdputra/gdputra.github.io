@@ -24,7 +24,7 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 - <b>[
   Endorsement-Driven Blockchain SSI Framework for Dynamic IoT Ecosystems](https://doi.org/10.48550/arXiv.2507.09859)</b>
   <br><b>Putra, G. D.</b> & Putra, B.R.O.<br>
-  <i>2025 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>).</i> <font color="#FF1493">[AR: 29%]</font> [<span style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</span>](https://arxiv.org/)
+  <i>2025 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>).</i> <font color="#FF1493">[AR: 29%]</font> [<span style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</span>](https://doi.org/10.48550/arXiv.2507.09859)
 
 ## 2023
 
