@@ -72,7 +72,7 @@ Before you begin, make sure you have the following installed:
 
 5. **If you want to make a push** please delete the folder .bundle and vendor:
    ```bash
-   rm -rf .bundler
+   rm -rf .bundle
    rm -rf vendor
    ```
 
