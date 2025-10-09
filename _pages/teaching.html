@@ -7,6 +7,25 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<!-- Group teaching posts by year, sorted from newest to oldest -->
+{% assign teaching_by_year = site.teaching | group_by_exp: "post", "post.date |
+date: '%Y'" | sort: "name" | reverse %} {% for year_group in teaching_by_year %}
+<h2>{{ year_group.name }}</h2>
+
+{% assign sorted_posts = year_group.items | sort: 'date' | reverse %} {% for
+post in sorted_posts %}
+<div class="list__item">
+  <article class="archive__item">
+    <p>
+      <b
+        ><a href="{{ base_path }}{{ post.url }}" rel="permalink"
+          >{{ post.title }}</a
+        ></b
+      ><br />
+      {{ post.type }}, <i>{{ post.venue }}</i><br />
+      {% if post.excerpt %} {{ post.excerpt | markdownify | strip_html |
+      truncatewords: 30 }} {% endif %}
+    </p>
+  </article>
+</div>
+{% endfor %} {% endfor %}
