@@ -13,6 +13,11 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 
 ## 2025
 
+- <b>[FedPPA: Progressive Parameter Alignment for Personalized Federated Learning](https://arxiv.org/pdf/2510.14698)</b>
+  <br>M. A. Prasetia, M. R. U. Saputra, & <b>G. D. Putra</b><br>
+  <i>2025 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (<b>TrustCom</b>).</i>
+  [<span style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</span>](https://arxiv.org/pdf/2510.14698)
+
 - <b>[TruChain: A Multi-Layer Architecture for Trusted, Verifiable, and Immutable Open Banking Data](https://doi.org/10.48550/arXiv.2507.08286)</b>
   <br>Rahman, A. N., Hantono, B.S., & <b>Putra, G. D.</b><br>
   <i>2025 IEEE International Conference on Metaverse Computing, Networking, and Applications (<b>MetaCom</b>).</i> <font color="#FF1493">[AR: 35%]</font>
@@ -24,7 +29,8 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 - <b>[
   Endorsement-Driven Blockchain SSI Framework for Dynamic IoT Ecosystems](https://doi.org/10.48550/arXiv.2507.09859)</b>
   <br><b>Putra, G. D.</b> & Putra, B.R.O.<br>
-  <i>2025 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>).</i> <font color="#FF1493">[AR: 29%]</font> [<span style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</span>](https://doi.org/10.48550/arXiv.2507.09859)
+  <i>2025 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>).</i><font color="#FF1493">[AR: 29%]</font>
+  [<span style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</span>](https://doi.org/10.48550/arXiv.2507.09859)
 
 ## 2023
 
