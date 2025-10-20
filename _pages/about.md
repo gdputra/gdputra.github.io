@@ -28,6 +28,7 @@ Available _**student projects**_ are listed on this [page](https://gdputra.githu
 
 ## What's New
 
+- [October 2025] I will be joining _[ACM SAC 2026 DAPP Track](https://www.cas-blockchain-certification.com/en/acm-sac-dapp-track)_ at [the 41th ACM Symposium on Applied Computing (SAC)](https://www.sigapp.org/sac/sac2026/) as a program committee member!
 - [October 2025] Our paper got **ACCEPTED** at [**IEEE TrustCom 2025**](https://ieee-aiplus-2025.org/)! Big contratulations to Maulidi for your hard work! Please find the pre-print on our [publications page](https://gdputra.github.io/publications/).
 - [September 2025] Received **research grant** from Faculty of Engineering UGM!
 - [July 2025] Received **research grant** from the Directorate General of Research and Development, Ministry of Higher Education, Science, and Technology (Direktorat Jenderal Riset dan Pengembangan, Kementerian Pendidikan Tinggi, Sains, dan Teknologi): [Program Hilirisasi Riset-Pengujian Model dan Prototipe 2025](https://bima.kemdiktisaintek.go.id/pengumuman)!
