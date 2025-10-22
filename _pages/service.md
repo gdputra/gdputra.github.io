@@ -33,6 +33,7 @@ Please refer to my [Web of Science Profile](https://www.webofscience.com/wos/aut
   - Elsevier - Applied Ergonomics (1)
   - Elsevier - Computer Communications (1)
   - Elsevier - Computer Networks (1)
+  - Elsevier - Computers & Security (1)
   - IEEE Transactions on Network and Service Managements (7)
   - IEEE Transactions on Vehicular Technology (4)
   - IEEE Computer Magazine (4)
