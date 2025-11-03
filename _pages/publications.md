@@ -36,7 +36,7 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 
 - <b>[Challenges in Designing Blockchain for Cyber-Physical Systems](https://dl.acm.org/doi/10.1145/3589648)</b>
   <br><b>Putra, G. D.</b>, Malik, S., Dedeoglu, V., Kanhere, S. S., & Jurdak, R.<br>
-  <i>Communications of the ACM (<b>CACM</b>), July 2023, Vol. 66 No. 7, Pages 81-82.</i> <font color="#FF7F00">[Q1, IF: 8.4]</font> <a href="https://doi.org/10.48550/arXiv.2507.09859" target="_blank" style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" onmouseover="this.style.backgroundColor='#991b1b'; this.style.transform='translateY(-1px)'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.2)'" onmouseout="this.style.backgroundColor='#b91c1c'; this.style.transform='translateY(0px)'; this.style.boxShadow='none'">arXiv</a>
+  <i>Communications of the ACM (<b>CACM</b>), July 2023, Vol. 66 No. 7, Pages 81-82.</i> <font color="#FF7F00">[Q1, IF: 8.4]</font>
 
 - <b>[Privacy-preserving Trust Management for Blockchain-based Resource Sharing in 6G-IoT](https://eprints.qut.edu.au/238213/)</b>
   <br><b>Putra, G. D.</b>, Dedeoglu, V., Kanhere, S. S., & Jurdak, R.<br>
