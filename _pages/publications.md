@@ -13,10 +13,10 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 
 ## 2025
 
-- <b>[FedPPA: Progressive Parameter Alignment for Personalized Federated Learning](https://arxiv.org/pdf/2510.14698)</b>
+- <b>[FedPPA: Progressive Parameter Alignment for Personalized Federated Learning](https://arxiv.org/abs/2510.14698)</b>
   <br>M. A. Prasetia, M. R. U. Saputra, & <b>G. D. Putra</b><br>
   <i>2025 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (<b>TrustCom</b>).</i>
-  [<span style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</span>](https://arxiv.org/pdf/2510.14698)
+  [<span style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</span>](https://arxiv.org/abs/2510.14698)
 
 - <b>[TruChain: A Multi-Layer Architecture for Trusted, Verifiable, and Immutable Open Banking Data](https://doi.org/10.48550/arXiv.2507.08286)</b>
   <br>Rahman, A. N., Hantono, B.S., & <b>Putra, G. D.</b><br>
@@ -38,9 +38,9 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
   <br><b>Putra, G. D.</b>, Malik, S., Dedeoglu, V., Kanhere, S. S., & Jurdak, R.<br>
   <i>Communications of the ACM (<b>CACM</b>), July 2023, Vol. 66 No. 7, Pages 81-82.</i> <font color="#FF7F00">[Q1, IF: 8.4]</font> <a href="https://doi.org/10.48550/arXiv.2507.09859" target="_blank" style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" onmouseover="this.style.backgroundColor='#991b1b'; this.style.transform='translateY(-1px)'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.2)'" onmouseout="this.style.backgroundColor='#b91c1c'; this.style.transform='translateY(0px)'; this.style.boxShadow='none'">arXiv</a>
 
-- <b>[Privacy-preserving Trust Management for Blockchain-based Resource Sharing in 6G-IoT](https://doi.org/10.1109/ICBC56567.2023.10174987)</b>
+- <b>[Privacy-preserving Trust Management for Blockchain-based Resource Sharing in 6G-IoT](https://eprints.qut.edu.au/238213/)</b>
   <br><b>Putra, G. D.</b>, Dedeoglu, V., Kanhere, S. S., & Jurdak, R.<br>
-  <i>2023 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>).</i> <font color="#FF1493">[AR: 18%]</font> <a href="https://doi.org/10.1109/ICBC56567.2023.10174987" target="_blank" style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" onmouseover="this.style.backgroundColor='#991b1b'; this.style.transform='translateY(-1px)'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.2)'" onmouseout="this.style.backgroundColor='#b91c1c'; this.style.transform='translateY(0px)'; this.style.boxShadow='none'">arXiv</a>
+  <i>2023 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>).</i> <font color="#FF1493">[AR: 18%]</font> <a href="https://eprints.qut.edu.au/238213/" target="_blank" style="background-color: #6366f1; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" onmouseover="this.style.backgroundColor='#4f46e5'; this.style.transform='translateY(-1px)'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.2)'" onmouseout="this.style.backgroundColor='#6366f1'; this.style.transform='translateY(0px)'; this.style.boxShadow='none'">Pre-print</a>
 
 - <b>[Trust and Reputation Management for Blockchain-enabled IoT](https://doi.org/10.1109/COMSNETS56262.2023.10041348)</b>
   <br><b>Putra, G. D.</b>, Malik, S., Dedeoglu, V., Kanhere, S. S., & Jurdak, R.<br>
@@ -48,9 +48,9 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 
 ## 2022
 
-- <b>[Blockchain for Trust and Reputation Management in Cyber-physical Systems](https://doi.org/10.1007/978-3-031-07535-3_10)</b>
+- <b>[Blockchain for Trust and Reputation Management in Cyber-physical Systems](https://arxiv.org/abs/2109.07721)</b>
   <br><b>G. D. Putra</b>, V. Dedeoglu, S. S. Kanhere, and R. Jurdak<br>
-  <i>Handbook on Blockchain (pp. 339-362). Cham: Springer International Publishing.</i> <a href="https://doi.org/10.1007/978-3-031-07535-3_10" target="_blank" style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" onmouseover="this.style.backgroundColor='#991b1b'; this.style.transform='translateY(-1px)'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.2)'" onmouseout="this.style.backgroundColor='#b91c1c'; this.style.transform='translateY(0px)'; this.style.boxShadow='none'">arXiv</a>
+  <i>Handbook on Blockchain (pp. 339-362). Cham: Springer International Publishing.</i> <a href="https://arxiv.org/abs/2109.07721" target="_blank" style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" onmouseover="this.style.backgroundColor='#991b1b'; this.style.transform='translateY(-1px)'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.2)'" onmouseout="this.style.backgroundColor='#b91c1c'; this.style.transform='translateY(0px)'; this.style.boxShadow='none'">arXiv</a>
 
 - <b>[Toward Blockchain-Based Trust and Reputation Management for Trustworthy 6G Networks](https://doi.org/10.1109/MNET.011.2100746)</b>
   <br><b>Putra, G. D.</b>, Dedeoglu, V., Kanhere, S. S., & Jurdak, R.<br>
@@ -94,7 +94,7 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 
 - <b>[SLAFKA: Demonstrating the Potential for Distributed Ledger Technology for Nuclear Safeguards Information Management](https://www.jstor.org/stable/resrep27757)</b>
   <br>C. Vestergaard, E. Obbard, E. Yu, <b>G. D. Putra</b>, and G. Green<br>
-  <i>Stimson Center Research Report, Washington, DC, November, 2020.</i> <a href="https://www.jstor.org/stable/resrep27757" target="_blank" style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" onmouseover="this.style.backgroundColor='#991b1b'; this.style.transform='translateY(-1px)'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.2)'" onmouseout="this.style.backgroundColor='#b91c1c'; this.style.transform='translateY(0px)'; this.style.boxShadow='none'">arXiv</a>
+  <i>Stimson Center Research Report, Washington, DC, November, 2020.</i> <a href="https://www.jstor.org/stable/resrep27757" target="_blank" style="background-color: #7c3aed; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" onmouseover="this.style.backgroundColor='#6d28d9'; this.style.transform='translateY(-1px)'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.2)'" onmouseout="this.style.backgroundColor='#7c3aed'; this.style.transform='translateY(0px)'; this.style.boxShadow='none'">JSTOR</a>
 
 - <b>[The SLUMBAT Demo of Blockchain Based Nuclear Safeguards](https://doi.org/10.1080/00223131.2020.1858990)</b>
   <br>E. Yu, <b>G. D. Putra</b>, G. B. Green, C. Vestergaard, and E. Obbard<br>
