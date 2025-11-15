@@ -19,7 +19,7 @@ Reviewers
 Please refer to my [Web of Science Profile](https://www.webofscience.com/wos/author/record/W-3040-2019) for more recent peer-review activities.
 
 - Conferences:
-  - 2025: PerCom, ICBC, DAPPS, Blockchain, TrustCom
+  - 2025: PerCom, ICBC, DAPPS, Blockchain, TrustCom, ACM SAC
   - 2024: PerCom, ICBC, Blockchain, MetaCom, TrustCom
   - 2023: MetaCom, ICBC, Blockchain
   - 2022: ICBC, INFOCOM, Blockchain
