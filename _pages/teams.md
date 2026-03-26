@@ -20,14 +20,8 @@ _Topic: multi-modal privacy preserving federated learning for mobile edge comput
 **Rahmat Ismoyo Putro** - <a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>  
 _Topic: anomaly detection in AMR data with machine learning (PLN)._
 
-**Lazuardi Imam Santosa** - <a href="https://id.linkedin.com/in/lazuardi-imam-santosa-872071296" target="_blank"><i class="fab fa-linkedin"></i></a>  
-_Topic: decentralized digital forensic._
-
 **Godwin Amoako Atta** - <a href="https://gh.linkedin.com/in/godwin-amoako-atta-a0083699" target="_blank"><i class="fab fa-linkedin"></i></a>  
 _Topic: decentralized identities for secure communication._
-
-**Sigit Bayu Cahyanto** - <a href="https://id.linkedin.com/in/sigit-bayu-cahyanto" target="_blank"><i class="fab fa-linkedin"></i></a>  
-_Topic: privacy preserving federated learning._
 
 ## Bachelor's Students
 
@@ -43,42 +37,29 @@ _Undergraduate research project._
 **Muhammad Grandiv Lava Putra** - <a href="https://www.linkedin.com/in/muhammad-grandiv-lava-putra-364b0324b/" target="_blank"><i class="fab fa-linkedin"></i></a>  
 _Undergraduate research project._
 
-## Research Assistant
+## Research and Teaching Assistant
 
 **Muhammad Khoirunas** - <a href="https://www.linkedin.com/in/khoirunas/" target="_blank"><i class="fab fa-linkedin"></i></a>  
 _Current projects and research support._
 
+**Theo Sanyoto** - <a href="https://www.linkedin.com/in/theo-immanuel-sanyoto-680b73327/" target="_blank"><i class="fab fa-linkedin"></i></a>  
+_Teaching and project assistant._
+
 ## Past Members
+Postgraduate
+- [Dimas Arief Rahman Kurniawan](https://www.linkedin.com/in/dimasark/)
 
-**Dimas Arief Rahman Kurniawan** - <a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>  
-_Topic: multi-modal AI assistant for billing management (PLN)._
+Undergraduate
+- [Bintang Restu Bawono](https://www.linkedin.com/in/bintangrestubawono/)
+- [Bagus Rakadyanto Oktavianto Putra](https://id.linkedin.com/in/bagus-rakadyanto-oktavianto-putra-0b0839221)
+- [Aufa Nasywa Rahman](https://id.linkedin.com/in/aufarahman)
+- [Franciscus Marselino Handoyo](https://id.linkedin.com/in/franciscus-marselino-handoyo-790822220)
+- [Ahmad Zaki Akmal](https://id.linkedin.com/in/ahmad-zaki-akmal)
 
-**Bintang Restu Bawono** - <a href="https://www.linkedin.com/in/bintangrestubawono/" target="_blank"><i class="fab fa-linkedin"></i></a>  
-_Topic: federated learning for financial services._
-
-**Bagus Rakadyanto Oktavianto Putra** - <a href="https://id.linkedin.com/in/bagus-rakadyanto-oktavianto-putra-0b0839221" target="_blank"><i class="fab fa-linkedin"></i></a>  
-_Topic: llm for cybersecurity. Project: endorsement-driven ssi for iot._
-
-**Aufa Nasywa Rahman** - <a href="https://id.linkedin.com/in/aufarahman" target="_blank"><i class="fab fa-linkedin"></i></a>  
-_Topic: trusted data layer as a service in data-intensive applications._
-
-**Franciscus Marselino Handoyo** - <a href="https://id.linkedin.com/in/franciscus-marselino-handoyo-790822220" target="_blank"><i class="fab fa-linkedin"></i></a>  
-_Topic: air quality monitoring and modeling._
-
-**Ahmad Zaki Akmal** - <a href="https://id.linkedin.com/in/ahmad-zaki-akmal" target="_blank"><i class="fab fa-linkedin"></i></a>  
-_Topic: fault tolerant web services using blockchain._
-
-**Mochammad Novaldy Pratama Hakim** - <a href="https://www.linkedin.com/in/muhammadfathanzahir/" target="_blank"><i class="fab fa-linkedin"></i></a>  
-_Project: interoperability in siloed medical records._
-
-**Maulana Anjari Anggorokasih** - <a href="https://www.linkedin.com/in/maulana-anjari-anggorokasih/" target="_blank"><i class="fab fa-linkedin"></i></a>  
-_Project: interoperability in siloed medical records._
-
-**Muhammad Muqtada Alhaddad** - <a href="https://www.linkedin.com/in/muhammad-muqtada-alhaddad-b02b44195/" target="_blank"><i class="fab fa-linkedin"></i></a>  
-_Project: cloud-based digital signage system._
-
-**Muhammad Fathan Zahir** - <a href="https://www.linkedin.com/in/muhammadfathanzahir/" target="_blank"><i class="fab fa-linkedin"></i></a>  
-_Project: cloud-based digital signage system._
-
-**Muchammad Daniyal Kautsar** - <a href="https://www.linkedin.com/in/mdaniyalk/" target="_blank"><i class="fab fa-linkedin"></i></a>  
-_Project: gait-based person reidentification._
+Short-term Project
+- [Polikarpus Arya Pradhanika](https://www.linkedin.com/in/polikarpus-arya-pradhanika/)
+- [Muhammad Muqtada Alhaddad](https://www.linkedin.com/in/muhammad-muqtada-alhaddad-b02b44195/)
+- [Muhammad Fathan Zahir](https://www.linkedin.com/in/muhammadfathanzahir/)
+- [Muchammad Daniyal Kautsar](https://www.linkedin.com/in/mdaniyalk/)
+- [Mochammad Novaldy Pratama Hakim](https://www.linkedin.com/in/muhammadfathanzahir/)
+- [Maulana Anjari Anggorokasih](https://www.linkedin.com/in/maulana-anjari-anggorokasih/)
