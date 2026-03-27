@@ -13,34 +13,39 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 
 ## 2025
 
-- <b>[FedPPA: Progressive Parameter Alignment for Personalized Federated Learning](https://arxiv.org/abs/2510.14698)</b>
+- <b>[FedPPA: Progressive Parameter Alignment for Personalized Federated Learning](https://doi.org/10.1109/Trustcom66490.2025.00214)</b>
   <br>M. A. Prasetia, M. R. U. Saputra, & <b>G. D. Putra</b><br>
   <i>2025 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (<b>TrustCom</b>).</i>
-  [<span style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</span>](https://arxiv.org/abs/2510.14698)
+  <a href="https://arxiv.org/abs/2510.14698" style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</a>
 
-- <b>[TruChain: A Multi-Layer Architecture for Trusted, Verifiable, and Immutable Open Banking Data](https://doi.org/10.48550/arXiv.2507.08286)</b>
+- <b>[TruChain: A Multi-Layer Architecture for Trusted, Verifiable, and Immutable Open Banking Data](https://doi.org/10.1109/MetaCom65502.2025.00068)</b>
   <br>Rahman, A. N., Hantono, B.S., & <b>Putra, G. D.</b><br>
   <i>2025 IEEE International Conference on Metaverse Computing, Networking, and Applications (<b>MetaCom</b>).</i> <font color="#FF1493">[AR: 35%]</font>
+  <a href="https://arxiv.org/abs/2507.08286" style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</a>
 
-- <b>[Fast and Interactive Byzantine Fault-tolerant Web Services via Session-Based Consensus Decoupling](https://doi.org/10.48550/arXiv.2507.08281)</b>
+
+- <b>[Fast and Interactive Byzantine Fault-tolerant Web Services via Session-Based Consensus Decoupling](https://doi.org/10.1109/MetaCom65502.2025.00030)</b>
   <br>Akmal, A.Z., Pratama, A.R., & <b>Putra, G. D.</b><br>
   <i>2025 IEEE International Conference on Metaverse Computing, Networking, and Applications (<b>MetaCom</b>).</i>
+  <a href="https://arxiv.org/abs/2507.08281" style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</a>
 
 - <b>[
   Endorsement-Driven Blockchain SSI Framework for Dynamic IoT Ecosystems](https://doi.org/10.48550/arXiv.2507.09859)</b>
   <br><b>Putra, G. D.</b> & Putra, B.R.O.<br>
-  <i>2025 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>).</i><font color="#FF1493">[AR: 29%]</font>
-  [<span style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</span>](https://doi.org/10.48550/arXiv.2507.09859)
+  <i>2025 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>).</i> <font color="#FF1493">[AR: 29%]</font>
+  <a href="https://doi.org/10.48550/arXiv.2507.09859" style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</a>
 
 ## 2023
 
 - <b>[Challenges in Designing Blockchain for Cyber-Physical Systems](https://dl.acm.org/doi/10.1145/3589648)</b>
   <br><b>Putra, G. D.</b>, Malik, S., Dedeoglu, V., Kanhere, S. S., & Jurdak, R.<br>
   <i>Communications of the ACM (<b>CACM</b>), July 2023, Vol. 66 No. 7, Pages 81-82.</i> <font color="#FF7F00">[Q1, IF: 8.4]</font>
+  <a href="https://dl.acm.org/doi/10.1145/3589648" style="background-color: #21b104; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">Open Access</a>
 
 - <b>[Privacy-preserving Trust Management for Blockchain-based Resource Sharing in 6G-IoT](https://eprints.qut.edu.au/238213/)</b>
   <br><b>Putra, G. D.</b>, Dedeoglu, V., Kanhere, S. S., & Jurdak, R.<br>
-  <i>2023 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>).</i> <font color="#FF1493">[AR: 18%]</font> <a href="https://eprints.qut.edu.au/238213/" target="_blank" style="background-color: #6366f1; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" onmouseover="this.style.backgroundColor='#4f46e5'; this.style.transform='translateY(-1px)'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.2)'" onmouseout="this.style.backgroundColor='#6366f1'; this.style.transform='translateY(0px)'; this.style.boxShadow='none'">Pre-print</a>
+  <i>2023 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>).</i> <font color="#FF1493">[AR: 18%]</font>
+  <a href="https://eprints.qut.edu.au/238213/" target="_blank" style="background-color: #6366f1; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">Pre-print</a>
 
 - <b>[Trust and Reputation Management for Blockchain-enabled IoT](https://doi.org/10.1109/COMSNETS56262.2023.10041348)</b>
   <br><b>Putra, G. D.</b>, Malik, S., Dedeoglu, V., Kanhere, S. S., & Jurdak, R.<br>
