@@ -3,7 +3,7 @@ title: "Teams"
 permalink: /teams/
 ---
 
-I have been privileged to collaborate with highly motivated students and colleagues, enabling us to conduct cutting-edge research together.
+I have been privileged to collaborate with highly motivated students and colleagues, enabling us to conduct quality research together.
 
 <div class="team-slider" id="team-slider">
 	<style>
