@@ -47,19 +47,21 @@ _Teaching and project assistant._
 
 ## Past Members
 Postgraduate
-- [Dimas Arief Rahman Kurniawan](https://www.linkedin.com/in/dimasark/)
+- Dimas Arief Rahman Kurniawan - <a href="https://www.linkedin.com/in/dimasark/" target="_blank"><i class="fab fa-linkedin"></i></a>  
 
 Undergraduate
-- [Bintang Restu Bawono](https://www.linkedin.com/in/bintangrestubawono/)
-- [Bagus Rakadyanto Oktavianto Putra](https://id.linkedin.com/in/bagus-rakadyanto-oktavianto-putra-0b0839221)
-- [Aufa Nasywa Rahman](https://id.linkedin.com/in/aufarahman)
-- [Franciscus Marselino Handoyo](https://id.linkedin.com/in/franciscus-marselino-handoyo-790822220)
-- [Ahmad Zaki Akmal](https://id.linkedin.com/in/ahmad-zaki-akmal)
+
+- Bintang Restu Bawono - <a href="https://www.linkedin.com/in/bintangrestubawono/" target="_blank"><i class="fab fa-linkedin"></i></a>  
+- Bagus Rakadyanto Oktavianto Putra - <a href="https://id.linkedin.com/in/bagus-rakadyanto-oktavianto-putra-0b0839221" target="_blank"><i class="fab fa-linkedin"></i></a>  
+- Aufa Nasywa Rahman - <a href="https://id.linkedin.com/in/aufarahman" target="_blank"><i class="fab fa-linkedin"></i></a>  
+- Franciscus Marselino Handoyo - <a href="https://id.linkedin.com/in/franciscus-marselino-handoyo-790822220" target="_blank"><i class="fab fa-linkedin"></i></a>  
+- Ahmad Zaki Akmal - <a href="https://id.linkedin.com/in/ahmad-zaki-akmal" target="_blank"><i class="fab fa-linkedin"></i></a>  
 
 Short-term Project
-- [Polikarpus Arya Pradhanika](https://www.linkedin.com/in/polikarpus-arya-pradhanika/)
-- [Muhammad Muqtada Alhaddad](https://www.linkedin.com/in/muhammad-muqtada-alhaddad-b02b44195/)
-- [Muhammad Fathan Zahir](https://www.linkedin.com/in/muhammadfathanzahir/)
-- [Muchammad Daniyal Kautsar](https://www.linkedin.com/in/mdaniyalk/)
-- [Mochammad Novaldy Pratama Hakim](https://www.linkedin.com/in/muhammadfathanzahir/)
-- [Maulana Anjari Anggorokasih](https://www.linkedin.com/in/maulana-anjari-anggorokasih/)
+
+- Polikarpus Arya Pradhanika - <a href="https://www.linkedin.com/in/polikarpus-arya-pradhanika/" target="_blank"><i class="fab fa-linkedin"></i></a>  
+- Muhammad Muqtada Alhaddad - <a href="https://www.linkedin.com/in/muhammad-muqtada-alhaddad-b02b44195/" target="_blank"><i class="fab fa-linkedin"></i></a>  
+- Muhammad Fathan Zahir - <a href="https://www.linkedin.com/in/muhammadfathanzahir/" target="_blank"><i class="fab fa-linkedin"></i></a>  
+- Muchammad Daniyal Kautsar - <a href="https://www.linkedin.com/in/mdaniyalk/" target="_blank"><i class="fab fa-linkedin"></i></a>  
+- Mochammad Novaldy Pratama Hakim - <a href="https://www.linkedin.com/in/novaldyph/" target="_blank"><i class="fab fa-linkedin"></i></a>  
+- Maulana Anjari Anggorokasih - <a href="https://www.linkedin.com/in/maulana-anjari-anggorokasih/" target="_blank"><i class="fab fa-linkedin"></i></a>  
