@@ -28,6 +28,7 @@ Available _**student projects**_ are listed on this [page](https://gdputra.githu
 
 ## What's New
 
+- [February 2026] We have a new instagram account for [our lab](https://www.instagram.com/dsrlab.id). Please have a look!
 - [February 2026] I will be serving as the general chair for the Joint Conference 2026. Please submit your recent work to our conferences! More info on the _[ICITEE 2026](https://icitee.ugm.ac.id/)_ and _[IBIOMED 2026](https://ibiomed.ugm.ac.id/)_ webpages.
 - [January 2026] Welcoming Deren, Elin, Grandiv, Adzka to our research team! They will be working on their bachelor's thesis in a range of research topics.
 - [October 2025] I will be joining _[ACM SAC 2026 DAPP Track](https://www.cas-blockchain-certification.com/en/acm-sac-dapp-track)_ at [the 41th ACM Symposium on Applied Computing (SAC)](https://www.sigapp.org/sac/sac2026/) as a program committee member!
