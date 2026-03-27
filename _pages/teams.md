@@ -1,11 +1,68 @@
 ---
-layout: archive
 title: "Teams"
 permalink: /teams/
-author_profile: true
 ---
 
 I have been privileged to collaborate with highly motivated students and colleagues, enabling us to conduct cutting-edge research together.
+
+<div class="team-slider" id="team-slider">
+	<style>
+		#team-slider {max-width:600px;margin:0 auto;position:relative}
+		#team-slider .slides {position:relative;overflow:hidden;width:600px;height:400px;margin-bottom:1rem}
+		#team-slider .slides img {position:absolute;top:0;left:0;width:600px;height:400px;object-fit:cover;opacity:0;transition:opacity .6s}
+		#team-slider .slides img.active{opacity:1}
+		#team-slider .controls{text-align:center}
+		#team-slider .dot{display:inline-block;width:10px;height:10px;margin:0 4px;background:#ccc;border-radius:50%;cursor:pointer}
+		#team-slider .dot.active{background:#333}
+		#team-slider .nav-btn{position:absolute;top:50%;transform:translateY(-50%);background:rgba(0,0,0,0.5);color:#fff;border:none;padding:8px 12px;cursor:pointer;border-radius:4px;z-index:2}
+		#team-slider .nav-btn:hover{background:rgba(0,0,0,0.65)}
+		#team-slider .prev{left:8px}
+		#team-slider .next{right:8px}
+	</style>
+	<div class="slides">
+        <img src="../images/carousel/trustcom-2025.jpeg" alt="Trustcom 2025" data-caption="Maulidi at IEEE Trustcom 2025 in Guiyang, China.">
+        <img src="../images/carousel/skripsi-2025.jpeg" alt="Skripsi Team 2025" data-caption="Our undergraduate research team - 2025.">
+		<img src="../images/carousel/metacom-2025.jpeg" alt="Metacom 2025" class="active" data-caption="Our group at IEEE Metacom 2025 in Seoul, South Korea.">
+		<img src="../images/carousel/icbc-2025.jpg" alt="ICBC 2025" class="active" data-caption="Our group at IEEE ICBC 2025 in Pisa, Italy.">
+		<img src="../images/carousel/skripsi-2024.jpg" alt="Skripsi Team 2024" data-caption="Our undergraduate research team - 2024.">
+		<img src="../images/carousel/skripsi-2023.png" alt="Skripsi Team 2023" data-caption="Our undergraduate research team - 2023.">
+	</div>
+	<button class="nav-btn prev" aria-label="Previous">‹</button>
+	<button class="nav-btn next" aria-label="Next">›</button>
+	<div class="controls">
+		<span class="dot active" data-index="0"></span>
+		<span class="dot" data-index="1"></span>
+		<span class="dot" data-index="2"></span>
+        <span class="dot" data-index="3"></span>
+        <span class="dot" data-index="4"></span>
+        <span class="dot" data-index="5"></span>
+        <span class="dot" data-index="6"></span>
+	</div>
+	<div class="slide-caption" id="team-slider-caption" style="text-align:center;font-style:italic;color:#555;margin-top:0.5rem"></div>
+	<script>
+		(function(){
+			var i=0;
+			var slides=document.querySelectorAll('#team-slider .slides img');
+			var dots=document.querySelectorAll('#team-slider .dot');
+			var captionDiv=document.getElementById('team-slider-caption');
+			function show(n){
+				slides.forEach((s,idx)=>s.classList.toggle('active',idx===n));
+				dots.forEach((d,idx)=>d.classList.toggle('active',idx===n));
+				i=n;
+				captionDiv.textContent = slides[n] && slides[n].dataset && slides[n].dataset.caption ? slides[n].dataset.caption : '';
+			}
+			function next(){i=(i+1)%slides.length;show(i)}
+			function prev(){i=(i-1+slides.length)%slides.length;show(i)}
+				dots.forEach(d=>d.addEventListener('click',e=>show(Number(e.target.dataset.index))));
+				var prevBtn=document.querySelector('#team-slider .prev');
+				var nextBtn=document.querySelector('#team-slider .next');
+				if(prevBtn) prevBtn.addEventListener('click',prev);
+				if(nextBtn) nextBtn.addEventListener('click',next);
+				show(0);
+				setInterval(next,3000);
+			})();
+	</script>
+</div>
 
 ## Research Associate
 
