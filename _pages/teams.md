@@ -36,7 +36,6 @@ I have been privileged to collaborate with highly motivated students and colleag
         <span class="dot" data-index="3"></span>
         <span class="dot" data-index="4"></span>
         <span class="dot" data-index="5"></span>
-        <span class="dot" data-index="6"></span>
 	</div>
 	<div class="slide-caption" id="team-slider-caption" style="text-align:center;font-style:italic;color:#555;margin-top:0.5rem"></div>
 	<script>
@@ -51,15 +50,16 @@ I have been privileged to collaborate with highly motivated students and colleag
 				i=n;
 				captionDiv.textContent = slides[n] && slides[n].dataset && slides[n].dataset.caption ? slides[n].dataset.caption : '';
 			}
-			function next(){i=(i+1)%slides.length;show(i)}
-			function prev(){i=(i-1+slides.length)%slides.length;show(i)}
+			function resetInterval(){clearInterval(intervalId);intervalId = setInterval(next,3000);}
+			function next(){i=(i+1)%slides.length;show(i);resetInterval();}
+			function prev(){i=(i-1+slides.length)%slides.length;show(i);resetInterval();}
 				dots.forEach(d=>d.addEventListener('click',e=>show(Number(e.target.dataset.index))));
 				var prevBtn=document.querySelector('#team-slider .prev');
 				var nextBtn=document.querySelector('#team-slider .next');
 				if(prevBtn) prevBtn.addEventListener('click',prev);
 				if(nextBtn) nextBtn.addEventListener('click',next);
 				show(0);
-				setInterval(next,3000);
+				intervalId = setInterval(next,3000);
 			})();
 	</script>
 </div>
@@ -79,6 +79,9 @@ _Topic: anomaly detection in AMR data with machine learning (PLN)._
 
 **Godwin Amoako Atta** - <a href="https://gh.linkedin.com/in/godwin-amoako-atta-a0083699" target="_blank"><i class="fab fa-linkedin"></i></a>  
 _Topic: decentralized identities for secure communication._
+
+**Muhammad Hilya S D Yasin** - <a href="https://www.linkedin.com/in/muhammad-hilya-surya-dilaga-yasin-533a92210/" target="_blank"><i class="fab fa-linkedin"></i></a>  
+_Topic: Decentralized Physical Infrastructure Network (DePIN)._
 
 ## Bachelor's Students
 
