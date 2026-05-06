@@ -10,7 +10,9 @@ redirect_from:
 
 I am an assistant professor in Information Technology at Department of Electrical and Information Engineering, Universitas Gadjah Mada.
 
-Starting from January 2026, I am also serving as the Deputy Program Coordinator, Master of Information Technology.
+Starting from January 2026, I serve as the Deputy Program Coordinator for Master of Information Technology.
+
+Starting from May 2026, I serve as the member of the Senate of the Faculty of Engineering UGM.
 
 My research mainly revolves around **_cyber-physical systems_** and **_applications of AI/ML_**. In the past few years, I have been exploring **_blockchain_** related applications in **_securing the internet of things_** and _distributed systems_ in general. Quite recently, I am also exploring the _applications of machine learning in the field of climate and energy_.
 
