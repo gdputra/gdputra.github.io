@@ -1,3 +1,11 @@
+- year: '2026'
+  title: 'Decoupled Smart Contract Audits: Lightweight LLM Framework via Distillation and Aggregation'
+  url: https://doi.org/10.48550/arXiv.2606.03128
+  image: decoupledsc.png
+  abstract: We introduce an efficient end-to-end smart contract security audit framework using lightweight open-source LLMs. The framework decouples vulnerability detection, explanation, severity classification, and remediation recommendation, and uses distillation plus a Chain-of-Verification aggregation strategy.
+  authors: Putra, B. R. O., Saputra, M. R. U., Widyawan, & Putra, G. D.
+  conference: 2026 IEEE International Conference on Web Services (<b>ICWS</b>).
+  badges: '<a href="https://arxiv.org/abs/2606.03128" style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</a>'
 - year: '2025'
   title: 'FedPPA: Progressive Parameter Alignment for Personalized Federated Learning'
   url: https://doi.org/10.1109/Trustcom66490.2025.00214
