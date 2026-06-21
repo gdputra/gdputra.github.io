@@ -12,25 +12,28 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 ---
 
 {% assign current_year = "" %}
+<div class="pub-list" markdown="1">
 {% for paper in site.data.publications %}
 {% if paper.year != current_year %}
 ## {{ paper.year }}
+{: .pub-year }
 {% assign current_year = paper.year %}
 {% endif %}
 
-<div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
-  <div style="flex: 0 0 200px;">
-    <img src="/images/research/{{ paper.image | default: 'placeholder.png' }}" alt="Paper Image" style="width: 100%; object-fit: cover; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<div class="pub-card">
+  <div class="pub-card__media">
+    <img src="/images/research/{{ paper.image | default: 'placeholder.png' }}" alt="{{ paper.title }}">
   </div>
-  <div style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.2em;"><a href="{{ paper.url }}">{{ paper.title }}</a></h3>
-    <p style="margin-bottom: 8px; font-size: 0.95em; color: #555; line-height: 1.4; text-align: justify;">{{ paper.abstract }}</p>
-    <p style="margin-bottom: 5px; font-size: 0.95em;">{{ paper.authors }}</p>
-    <p style="margin-bottom: 8px; font-size: 0.95em;"><i>{{ paper.conference }}</i></p>
-    <div>{{ paper.badges }}</div>
+  <div class="pub-card__body">
+    <h3 class="pub-card__title"><a href="{{ paper.url }}">{{ paper.title }}</a></h3>
+    <div class="pub-card__badges">{{ paper.badges }}</div>
+    <p class="pub-card__authors">{{ paper.authors }}</p>
+    <p class="pub-card__venue">{{ paper.conference }}</p>
+    <p class="pub-card__abstract">{{ paper.abstract }}</p>
   </div>
 </div>
 {% endfor %}
+</div>
 
 ---
 
