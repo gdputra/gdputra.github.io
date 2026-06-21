@@ -2,357 +2,199 @@
   title: 'Decoupled Smart Contract Audits: Lightweight LLM Framework via Distillation and Aggregation'
   url: https://doi.org/10.48550/arXiv.2606.03128
   image: decoupledsc.png
-  abstract: We introduce an efficient end-to-end smart contract security audit framework using lightweight open-source LLMs. The framework decouples vulnerability detection, explanation, severity classification, and remediation recommendation, and uses distillation plus a Chain-of-Verification aggregation strategy.
-  authors: Putra, B. R. O., Saputra, M. R. U., Widyawan, & Putra, G. D.
+  abstract: 'An efficient end-to-end smart contract security audit framework using lightweight open-source LLMs, decoupling detection, explanation, severity classification, and remediation via distillation and a Chain-of-Verification aggregation strategy.'
+  authors: 'B. R. O. Putra, M. R. U. Saputra, Widyawan, & <strong>G. D. Putra</strong>'
   conference: 2026 IEEE International Conference on Web Services (<b>ICWS</b>).
-  badges: '<a href="https://arxiv.org/abs/2606.03128" style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 12px;">arXiv</a>'
+  badges: '<span class="pub-metric pub-metric--rank">CORE A</span> <a href="https://arxiv.org/abs/2606.03128" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2025'
   title: 'FedPPA: Progressive Parameter Alignment for Personalized Federated Learning'
   url: https://doi.org/10.1109/Trustcom66490.2025.00214
   image: fedppa.png
-  abstract: This paper presents a novel approach in its respective field. Please refer
-    to the full paper for detailed methodology and results.
-  authors: M. A. Prasetia, M. R. U. Saputra, & G. D. Putra
-  conference: 2025 IEEE International Conference on Trust, Security and Privacy in
-    Computing and Communications (<b>TrustCom</b>).
-  badges: '<a href="https://arxiv.org/abs/2510.14698" style="background-color: #b91c1c;
-    color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size:
-    12px;">arXiv</a>'
+  abstract: 'FedPPA progressively aligns shared-layer weights with the global model to reduce global-local inconsistency in Personalized Federated Learning, consistently outperforming existing FL algorithms on MNIST, FMNIST, and CIFAR-10.'
+  authors: 'M. A. Prasetia, M. R. U. Saputra, & <strong>G. D. Putra</strong>'
+  conference: 2025 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (<b>TrustCom</b>).
+  badges: '<span class="pub-metric pub-metric--rank">CORE B</span> <a href="https://doi.org/10.1109/Trustcom66490.2025.00214" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a> <a href="https://arxiv.org/abs/2510.14698" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2025'
-  title: 'TruChain: A Multi-Layer Architecture for Trusted, Verifiable, and Immutable
-    Open Banking Data'
+  title: 'TruChain: A Multi-Layer Architecture for Trusted, Verifiable, and Immutable Open Banking Data'
   url: https://doi.org/10.1109/MetaCom65502.2025.00068
   image: truchain.png
-  abstract: This paper presents a novel approach in its respective field. Please refer
-    to the full paper for detailed methodology and results.
-  authors: Rahman, A. N., Hantono, B.S., & Putra, G. D.
-  conference: 2025 IEEE International Conference on Metaverse Computing, Networking,
-    and Applications (<b>MetaCom</b>).
-  badges: '<font color="#FF1493">[AR: 35%]</font>
-
-    <a href="https://arxiv.org/abs/2507.08286" style="background-color: #b91c1c; color:
-    white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size:
-    12px;">arXiv</a>'
+  abstract: 'TruChain is a three-layer open banking architecture that validates data sources via decentralized identity, authenticates data with cryptographic signing, and anchors records on the Tangle ledger, achieving a 100% validation rate with low CPU/memory overhead.'
+  authors: 'A. N. Rahman, B. S. Hantono, & <strong>G. D. Putra</strong>'
+  conference: 2025 IEEE International Conference on Metaverse Computing, Networking, and Applications (<b>MetaCom</b>).
+  badges: '<span class="pub-metric pub-metric--accept">AR 35%</span> <a href="https://doi.org/10.1109/MetaCom65502.2025.00068" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a> <a href="https://arxiv.org/abs/2507.08286" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2025'
-  title: Fast and Interactive Byzantine Fault-tolerant Web Services via Session-Based
-    Consensus Decoupling
+  title: Fast and Interactive Byzantine Fault-tolerant Web Services via Session-Based Consensus Decoupling
   url: https://doi.org/10.1109/MetaCom65502.2025.00030
   image: fastandinteractivebyzantine.png
-  abstract: This paper presents a novel approach in its respective field. Please refer
-    to the full paper for detailed methodology and results.
-  authors: Akmal, A.Z., Pratama, A.R., & Putra, G. D.
-  conference: 2025 IEEE International Conference on Metaverse Computing, Networking,
-    and Applications (<b>MetaCom</b>).
-  badges: '<a href="https://arxiv.org/abs/2507.08281" style="background-color: #b91c1c;
-    color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size:
-    12px;">arXiv</a>'
+  abstract: 'This paper decouples BFT consensus into a fast session-aware transaction buffer for immediate user feedback and a periodic batch-committed consensus layer, achieving sub-200ms responsiveness while preserving end-to-end transaction integrity.'
+  authors: 'A. Z. Akmal, A. R. Pratama, & <strong>G. D. Putra</strong>'
+  conference: 2025 IEEE International Conference on Metaverse Computing, Networking, and Applications (<b>MetaCom</b>).
+  badges: '<span class="pub-metric pub-metric--accept">AR 35%</span> <a href="https://doi.org/10.1109/MetaCom65502.2025.00030" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a> <a href="https://arxiv.org/abs/2507.08281" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2025'
   title: Endorsement-Driven Blockchain SSI Framework for Dynamic IoT Ecosystems
   url: https://doi.org/10.48550/arXiv.2507.09859
   image: endorsmentdriven.png
-  abstract: 'Abstract page for arXiv paper 2507.09859: Endorsement-Driven Blockchain
-    SSI Framework for Dynamic IoT Ecosystems'
-  authors: Putra, G. D. & Putra, B.R.O.
-  conference: 2025 IEEE International Conference on Blockchain and Cryptocurrency
-    (<b>ICBC</b>).
-  badges: '<font color="#FF1493">[AR: 29%]</font>
-
-    <a href="https://doi.org/10.48550/arXiv.2507.09859" style="background-color: #b91c1c;
-    color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size:
-    12px;">arXiv</a>'
+  abstract: 'A blockchain-based Self-Sovereign Identity framework for dynamic IoT ecosystems that lets any individual with a verifiable trust linkage act as a credential issuer, using endorsement-based trust establishment and smart contracts for credential lifecycle management.'
+  authors: '<strong>G. D. Putra</strong> & B. R. O. Putra'
+  conference: 2025 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>).
+  badges: '<span class="pub-metric pub-metric--accept">AR 29%</span> <a href="https://doi.org/10.1109/ICBC64466.2025.11114640" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a><a href="https://doi.org/10.48550/arXiv.2507.09859" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2023'
   title: Challenges in Designing Blockchain for Cyber-Physical Systems
   url: https://dl.acm.org/doi/10.1145/3589648
   image: challengesindesigning.png
-  abstract: This paper presents novel research and findings. Click the link to read
-    the full abstract and details.
-  authors: Putra, G. D., Malik, S., Dedeoglu, V., Kanhere, S. S., & Jurdak, R.
-  conference: Communications of the ACM (<b>CACM</b>), July 2023, Vol. 66 No. 7, Pages
-    81-82.
-  badges: '<font color="#FF7F00">[Q1, IF: 8.4]</font>
-
-    <a href="https://dl.acm.org/doi/10.1145/3589648" style="background-color: #21b104;
-    color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size:
-    12px;">Open Access</a>'
+  abstract: 'This paper identifies three core challenges in designing blockchain for cyber-physical systems, scalability, trust, and the privacy-transparency trade-off, and addresses them via parallel geography-based chains, sensor-corroborated reputation, and zero-knowledge proofs.'
+  authors: '<strong>G. D. Putra</strong>, S. Malik, V. Dedeoglu, S. S. Kanhere, & R. Jurdak'
+  conference: Communications of the ACM (<b>CACM</b>), July 2023, Vol. 66 No. 7, Pages 81-82.
+  badges: '<span class="pub-metric pub-metric--quartile">Q1 &middot; IF 8.4</span> <a href="https://dl.acm.org/doi/10.1145/3589648" class="pub-link pub-link--open" target="_blank" rel="noopener">Open Access</a>'
 - year: '2023'
-  title: Privacy-preserving Trust Management for Blockchain-based Resource Sharing
-    in 6G-IoT
+  title: Privacy-preserving Trust Management for Blockchain-based Resource Sharing in 6G-IoT
   url: https://eprints.qut.edu.au/238213/
   image: privacypreserving.png
-  abstract: This paper presents novel research and findings. Click the link to read
-    the full abstract and details.
-  authors: Putra, G. D., Dedeoglu, V., Kanhere, S. S., & Jurdak, R.
-  conference: 2023 IEEE International Conference on Blockchain and Cryptocurrency
-    (<b>ICBC</b>).
-  badges: '<font color="#FF1493">[AR: 18%]</font>
-
-    <a href="https://eprints.qut.edu.au/238213/" style="background-color: #6366f1;
-    color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size:
-    12px;" target="_blank">Pre-print</a>'
+  abstract: 'A privacy-preserving Trust and Reputation Management scheme for blockchain-based 6G-IoT resource sharing, using two interconnected blockchains to protect node identity while still enabling trust scoring with minimal overhead.'
+  authors: '<strong>G. D. Putra</strong>, V. Dedeoglu, S. S. Kanhere, & R. Jurdak'
+  conference: 2023 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>).
+  badges: '<span class="pub-metric pub-metric--accept">AR 18%</span> <a href="https://doi.org/10.1109/ICBC56567.2023.10174987" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a> <a href="https://eprints.qut.edu.au/238213/" class="pub-link pub-link--preprint" target="_blank" rel="noopener">Pre-print</a>'
 - year: '2023'
   title: Trust and Reputation Management for Blockchain-enabled IoT
   url: https://doi.org/10.1109/COMSNETS56262.2023.10041348
   image: placeholder.png
-  abstract: This paper presents a novel approach in its respective field. Please refer
-    to the full paper for detailed methodology and results.
-  authors: Putra, G. D., Malik, S., Dedeoglu, V., Kanhere, S. S., & Jurdak, R.
+  abstract: 'This paper shares the authors'' experience designing Trust and Reputation Management frameworks for several blockchain-enabled IoT applications and highlights open research challenges.'
+  authors: '<strong>G. D. Putra</strong>, S. Malik, V. Dedeoglu, S. S. Kanhere, & R. Jurdak'
   conference: 15th International Conference on COMmunication Systems & NETworkS (<b>COMSNETS</b>).
-  badges: '<a href="https://doi.org/10.1109/COMSNETS56262.2023.10041348" onmouseout="this.style.backgroundColor=''#b91c1c'';
-    this.style.transform=''translateY(0px)''; this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  badges: '<a href="https://doi.org/10.1109/COMSNETS56262.2023.10041348" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a> <a href="https://arxiv.org/abs/2212.04658" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2022'
   title: Blockchain for Trust and Reputation Management in Cyber-physical Systems
   url: https://arxiv.org/abs/2109.07721
   image: blockchainfortrust.png
-  abstract: The salient features of blockchain, such as decentralisation and transparency,
-    have allowed the development of Decentralised Trust and Reputation Management
-    Systems (DTRMS), which mainly aim to quantitatively assess the trustworthiness
-    of the network participants and help to protect the network from...
-  authors: G. D. Putra, V. Dedeoglu, S. S. Kanhere, and R. Jurdak
-  conference: 'Handbook on Blockchain (pp. 339-362). Cham: Springer International
-    Publishing.'
-  badges: '<a href="https://arxiv.org/abs/2109.07721" onmouseout="this.style.backgroundColor=''#b91c1c'';
-    this.style.transform=''translateY(0px)''; this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  abstract: 'This chapter outlines the fundamental components of Decentralised Trust and Reputation Management Systems for cyber-physical systems, surveys existing implementations, and identifies open research challenges.'
+  authors: '<strong>G. D. Putra</strong>, V. Dedeoglu, S. S. Kanhere, & R. Jurdak'
+  conference: 'Handbook on Blockchain (pp. 339-362). Cham: Springer International Publishing.'
+  badges: '<a href="https://arxiv.org/abs/2109.07721" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2022'
-  title: Toward Blockchain-Based Trust and Reputation Management for Trustworthy 6G
-    Networks
+  title: Toward Blockchain-Based Trust and Reputation Management for Trustworthy 6G Networks
   url: https://doi.org/10.1109/MNET.011.2100746
   image: placeholder.png
-  abstract: This paper presents a novel approach in its respective field. Please refer
-    to the full paper for detailed methodology and results.
-  authors: Putra, G. D., Dedeoglu, V., Kanhere, S. S., & Jurdak, R.
+  abstract: 'This paper argues that blockchain-based Trust and Reputation Management is critical for trustworthy 6G networks, illustrated with a 6G resource-management case study.'
+  authors: '<strong>G. D. Putra</strong>, V. Dedeoglu, S. S. Kanhere, & R. Jurdak'
   conference: IEEE Network Magazine, 36(4), 112-119.
-  badges: '<font color="#FF7F00">[Q1, IF: 10.294]</font> <a href="https://doi.org/10.1109/MNET.011.2100746"
-    onmouseout="this.style.backgroundColor=''#b91c1c''; this.style.transform=''translateY(0px)'';
-    this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  badges: '<span class="pub-metric pub-metric--quartile">Q1 &middot; IF 10.294</span> <a href="https://doi.org/10.1109/MNET.011.2100746" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a> <a href="https://arxiv.org/abs/2208.07562" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2022'
-  title: A Democratically Anonymous and Trusted Architecture for CTI Sharing using
-    Blockchain
+  title: A Democratically Anonymous and Trusted Architecture for CTI Sharing using Blockchain
   url: https://doi.org/10.1109/ICCCN54977.2022.9868919
   image: placeholder.png
-  abstract: This paper presents a novel approach in its respective field. Please refer
-    to the full paper for detailed methodology and results.
-  authors: Dunnett, K., Pal, S., Jadidi, Z., Putra, G. D., and Jurdak, R.
-  conference: 2022 International Conference on Computer Communications and Networks
-    (<b>ICCCN</b>).
-  badges: '<a href="https://doi.org/10.1109/ICCCN54977.2022.9868919" onmouseout="this.style.backgroundColor=''#b91c1c'';
-    this.style.transform=''translateY(0px)''; this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  abstract: 'A blockchain-based architecture for secure, anonymous Cyber Threat Intelligence sharing between organisations, overcoming the trust, privacy, and accountability barriers inherent to the domain.'
+  authors: 'K. Dunnett, S. Pal, Z. Jadidi, <strong>G. D. Putra</strong>, & R. Jurdak'
+  conference: 2022 International Conference on Computer Communications and Networks (<b>ICCCN</b>).
+  badges: '<a href="https://doi.org/10.1109/ICCCN54977.2022.9868919" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a>'
 - year: '2022'
   title: 'DIMY: Enabling Privacy-preserving Contact Tracing'
   url: https://doi.org/10.1016/j.jnca.2022.103356
   image: DIMY.png
-  abstract: This paper presents novel research and findings. Click the link to read
-    the full abstract and details.
-  authors: N. Ahmed, R. A. Michelin, W. Xue, G. D. Putra, S. Ruj, S. S. Kanhere, S.
-    Jha
+  abstract: 'DIMY ("Did I Meet You") is a blockchain-based privacy-preserving contact tracing protocol using Bloom filters and Diffie-Hellman key exchange, resisting known attacks with a smaller storage footprint than comparable apps.'
+  authors: 'N. Ahmed, R. A. Michelin, W. Xue, <strong>G. D. Putra</strong>, S. Ruj, S. S. Kanhere, & S. Jha'
   conference: Journal of Network and Computer Applications, 202, 103356 (<b>JNCA</b>).
-  badges: '<font color="#FF7F00">[Q1, IF: 7.574]</font> <a href="https://doi.org/10.1016/j.jnca.2022.103356"
-    onmouseout="this.style.backgroundColor=''#b91c1c''; this.style.transform=''translateY(0px)'';
-    this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  badges: '<span class="pub-metric pub-metric--quartile">Q1 &middot; IF 7.574</span> <a href="https://arxiv.org/abs/2103.05873" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2022'
-  title: 'DeTRM: Decentralised trust and reputation management for blockchain-based
-    supply chains'
+  title: 'DeTRM: Decentralised trust and reputation management for blockchain-based supply chains'
   url: https://doi.org/10.1109/ICBC54727.2022.9805565
   image: placeholder.png
-  abstract: This paper presents a novel approach in its respective field. Please refer
-    to the full paper for detailed methodology and results.
-  authors: G. D. Putra, C. Kang, S. S. Kanhere, and J. W. K. Hong
-  conference: 2022 IEEE International Conference on Blockchain and Cryptocurrency
-    (<b>ICBC</b>)
-  badges: '<a href="https://doi.org/10.1109/ICBC54727.2022.9805565" onmouseout="this.style.backgroundColor=''#b91c1c'';
-    this.style.transform=''translateY(0px)''; this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  abstract: 'DeTRM is a decentralised trust and reputation management solution for blockchain-based supply chains that resolves data trust by correlating sensor data across adjacent nodes, validated on a Hyperledger Fabric proof-of-concept.'
+  authors: '<strong>G. D. Putra</strong>, C. Kang, S. S. Kanhere, & J. W. K. Hong'
+  conference: 2022 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>)
+  badges: '<a href="https://doi.org/10.1109/ICBC54727.2022.9805565" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a> <a href="https://arxiv.org/abs/2203.05769" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2021'
   title: Blockchain Tools for Nuclear Safeguards
   url: https://doi.org/10.1007/978-3-030-86240-4_4
   image: placeholder.png
-  abstract: SLUMBAT and SLAFKA are a minimal demonstration and a prototype blockchain
-    solution for nuclear material accounting. This chapter explains how these two
-    demonstrations of DLT for nuclear safeguards met the requirements for the recording,
-    reporting, and access control...
-  authors: E. Obbard, E. Yu, and G.D. Putra
-  conference: Blockchain for International Security, pp 37-54, October 2021 (edited
-    book). Springer, Cham.
-  badges: '<a href="https://doi.org/10.1007/978-3-030-86240-4_4" onmouseout="this.style.backgroundColor=''#b91c1c'';
-    this.style.transform=''translateY(0px)''; this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  abstract: 'This chapter explains how SLUMBAT and SLAFKA, a minimal demonstration and a prototype blockchain solution for nuclear material accounting, met the recording, reporting, and access-control requirements of nuclear safeguards.'
+  authors: 'E. Obbard, E. Yu, & <strong>G. D. Putra</strong>'
+  conference: Blockchain for International Security, pp 37-54, October 2021 (edited book). Springer, Cham.
+  badges: '<a href="https://doi.org/10.1007/978-3-030-86240-4_4" class="pub-link pub-link--doi" target="_blank" rel="noopener">DOI</a>'
 - year: '2021'
   title: Decentralised Trustworthy Collaborative Intrusion Detection System for IoT
   url: https://doi.org/10.1109/Blockchain53845.2021.00048
   image: placeholder.png
-  abstract: This paper presents a novel approach in its respective field. Please refer
-    to the full paper for detailed methodology and results.
-  authors: G. D. Putra, V. Dedeoglu, A. Pathak, S. S. Kanhere, and R. Jurdak
-  conference: 2021 IEEE International Conference on Blockchain (<b>Blockchain</b>),
-    2021.
-  badges: '<font color="#FF1493">[AR: 24.7%]</font> <a href="https://doi.org/10.1109/Blockchain53845.2021.00048"
-    onmouseout="this.style.backgroundColor=''#b91c1c''; this.style.transform=''translateY(0px)'';
-    this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  abstract: 'A decentralised, blockchain-based Collaborative Intrusion Detection System that offloads trust computation to the blockchain and scalably stores shared detection rules, validated on a lab-scale Ethereum testbed.'
+  authors: '<strong>G. D. Putra</strong>, V. Dedeoglu, A. Pathak, S. S. Kanhere, & R. Jurdak'
+  conference: 2021 IEEE International Conference on Blockchain (<b>Blockchain</b>), 2021.
+  badges: '<span class="pub-metric pub-metric--accept">AR 24.7%</span> <a href="https://doi.org/10.1109/Blockchain53845.2021.00048" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a> <a href="https://arxiv.org/abs/2110.11177" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2021'
   title: Trust-based Blockchain Authorization for IoT
   url: https://doi.org/10.1109/TNSM.2021.3077276
   image: placeholder.png
-  abstract: This paper presents a novel approach in its respective field. Please refer
-    to the full paper for detailed methodology and results.
-  authors: G. D. Putra, V. Dedeoglu, S. S. Kanhere, R. Jurdak, A. Ignjatovic
-  conference: IEEE Transactions on Network and Service Management, Vol 18, Issue 2,
-    June 2021, pp 1646-1658 (<b>IEEE TNSM</b>).
-  badges: '<font color="#FF7F00">[Q1, IF: 4.758]</font> <a href="https://doi.org/10.1109/TNSM.2021.3077276"
-    onmouseout="this.style.backgroundColor=''#b91c1c''; this.style.transform=''translateY(0px)'';
-    this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  abstract: 'A decentralised attribute-based access-control mechanism augmented with a blockchain-based Trust and Reputation System, evaluated on a public Rinkeby Ethereum test network interconnected with a lab-scale testbed.'
+  authors: '<strong>G. D. Putra</strong>, V. Dedeoglu, S. S. Kanhere, R. Jurdak, & A. Ignjatovic'
+  conference: IEEE Transactions on Network and Service Management, Vol 18, Issue 2, June 2021, pp 1646-1658 (<b>IEEE TNSM</b>).
+  badges: '<span class="pub-metric pub-metric--quartile">Q1 &middot; IF 4.758</span> <a href="https://doi.org/10.1109/TNSM.2021.3077276" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a> <a href="https://arxiv.org/abs/2104.00832" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2021'
   title: Towards Privacy-preservingDigital Contact Tracing
   url: https://doi.org/10.1109/ICBC51069.2021.9461052
   image: placeholder.png
-  abstract: This paper presents a novel approach in its respective field. Please refer
-    to the full paper for detailed methodology and results.
-  authors: N. Ahmed, R. A. Michelin, W. Xue, G. D. Putra, W. Song, S. Ruj, S. S. Kanhere,
-    S. Jha
-  conference: 3rd IEEE International Conference on Blockchain and Cryptocurrency,
-    2021 (<b>ICBC</b>).
-  badges: '<a href="https://doi.org/10.1109/ICBC51069.2021.9461052" onmouseout="this.style.backgroundColor=''#b91c1c'';
-    this.style.transform=''translateY(0px)''; this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  abstract: 'This paper proposes DIMY ("Did I Meet You"), a blockchain-based privacy-preserving contact tracing protocol using Bloom filters and Diffie-Hellman key exchange, achieving resilience to known attacks with low storage overhead.'
+  authors: 'N. Ahmed, R. A. Michelin, W. Xue, <strong>G. D. Putra</strong>, W. Song, S. Ruj, S. S. Kanhere, & S. Jha'
+  conference: 3rd IEEE International Conference on Blockchain and Cryptocurrency, 2021 (<b>ICBC</b>).
+  badges: '<a href="https://doi.org/10.1109/ICBC51069.2021.9461052" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a> <a href="https://arxiv.org/abs/2103.05873" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2021'
   title: Cost-Effective Blockchain-based IoT Data Marketplaces with a Credit Invariant
   url: https://doi.org/10.1109/ICBC51069.2021.9461127
   image: placeholder.png
-  abstract: This paper presents a novel approach in its respective field. Please refer
-    to the full paper for detailed methodology and results.
-  authors: J. Meijers, G. D. Putra, G. Kotsialou, S. S. Kanhere, and A. Veneris
-  conference: 3rd IEEE International Conference on Blockchain and Cryptocurrency,
-    2021 (<b>ICBC</b>).
-  badges: '<font color="#FF1493">[AR: 18%]</font> <a href="https://doi.org/10.1109/ICBC51069.2021.9461127"
-    onmouseout="this.style.backgroundColor=''#b91c1c''; this.style.transform=''translateY(0px)'';
-    this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  abstract: 'A trustless blockchain-based IoT data marketplace where producers and consumers settle off-chain agreements on-chain only for deposits and withdrawals, reducing fees via an added credit mechanism.'
+  authors: 'J. Meijers, <strong>G. D. Putra</strong>, G. Kotsialou, S. S. Kanhere, & A. Veneris'
+  conference: 3rd IEEE International Conference on Blockchain and Cryptocurrency, 2021 (<b>ICBC</b>).
+  badges: '<span class="pub-metric pub-metric--accept">AR 18%</span> <a href="https://doi.org/10.1109/ICBC51069.2021.9461127" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a>'
 - year: '2020'
-  title: 'SLAFKA: Demonstrating the Potential for Distributed Ledger Technology for
-    Nuclear Safeguards Information Management'
+  title: 'SLAFKA: Demonstrating the Potential for Distributed Ledger Technology for Nuclear Safeguards Information Management'
   url: https://www.jstor.org/stable/resrep27757
   image: SLAFKA.png
-  abstract: This paper presents novel research and findings. Click the link to read
-    the full abstract and details.
-  authors: C. Vestergaard, E. Obbard, E. Yu, G. D. Putra, and G. Green
+  abstract: 'SLAFKA is a prototype distributed ledger platform, built jointly by Finland''s STUK, the Stimson Center, and UNSW, that demonstrates permissioned, confidentiality-preserving information-sharing for nuclear material accounting.'
+  authors: 'C. Vestergaard, E. Obbard, E. Yu, <strong>G. D. Putra</strong>, & G. Green'
   conference: Stimson Center Research Report, Washington, DC, November, 2020.
-  badges: '<a href="https://www.jstor.org/stable/resrep27757" onmouseout="this.style.backgroundColor=''#7c3aed'';
-    this.style.transform=''translateY(0px)''; this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#6d28d9'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #7c3aed; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">JSTOR</a>'
+  badges: '<a href="https://www.jstor.org/stable/resrep27757" class="pub-link pub-link--jstor" target="_blank" rel="noopener">JSTOR</a>'
 - year: '2020'
   title: The SLUMBAT Demo of Blockchain Based Nuclear Safeguards
   url: https://doi.org/10.1080/00223131.2020.1858990
   image: SLUMBAT.png
-  abstract: This paper presents novel research and findings. Click the link to read
-    the full abstract and details.
-  authors: E. Yu, G. D. Putra, G. B. Green, C. Vestergaard, and E. Obbard
+  abstract: 'SLUMBAT is a permissioned-blockchain framework for nuclear material accounting and reporting, demonstrated in a nuclear fuel supply scenario across multiple State and regulatory systems.'
+  authors: 'E. Yu, <strong>G. D. Putra</strong>, G. B. Green, C. Vestergaard, & E. Obbard'
   conference: Journal of Nuclear Science and Technology, 58:6, 725-733, 2020 (<b>JNST</b>).
-  badges: '<font color="#FF7F00">[Q2, IF: 1.29]</font> <a href="https://doi.org/10.1080/00223131.2020.1858990"
-    onmouseout="this.style.backgroundColor=''#b91c1c''; this.style.transform=''translateY(0px)'';
-    this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  badges: '<span class="pub-metric pub-metric--quartile">Q2 &middot; IF 1.29</span> <a href="https://doi.org/10.1080/00223131.2020.1858990" class="pub-link pub-link--doi" target="_blank" rel="noopener">DOI</a>'
 - year: '2020'
   title: A Decentralized Peer-to-Peer Remote Health Monitoring System
   url: https://doi.org/10.3390/s20061656
   image: adecentralizedpeertopeer.png
-  abstract: This paper presents novel research and findings. Click the link to read
-    the full abstract and details.
-  authors: M. S. Ali, M. Vecchio, G. D. Putra, S. S. Kanhere, and F. Antonelli
+  abstract: 'This paper lets patients share biomedical data directly with doctors using Ethereum for negotiation/record-keeping and Tor for delivery, demonstrated via cardiac, sleep apnoea, and EEG monitoring use cases.'
+  authors: 'M. S. Ali, M. Vecchio, <strong>G. D. Putra</strong>, S. S. Kanhere, & F. Antonelli'
   conference: <b>Sensors</b>, vol. 20, no. 6, March 2020
-  badges: '<font color="#FF7F00">[Q2, IF: 3.03]</font> <a href="https://doi.org/10.3390/s20061656"
-    onmouseout="this.style.backgroundColor=''#b91c1c''; this.style.transform=''translateY(0px)'';
-    this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  badges: '<span class="pub-metric pub-metric--quartile">Q2 &middot; IF 3.03</span> <a href="https://doi.org/10.3390/s20061656" class="pub-link pub-link--open" target="_blank" rel="noopener">Open Access</a>'
 - year: '2020'
-  title: Towards Scalable and Trustworthy Decentralized Collaborative Intrusion Detection
-    System for IoT
+  title: Towards Scalable and Trustworthy Decentralized Collaborative Intrusion Detection System for IoT
   url: https://doi.org/10.1109/IoTDI49375.2020.00035
   image: placeholder.png
-  abstract: This paper presents a novel approach in its respective field. Please refer
-    to the full paper for detailed methodology and results.
-  authors: G. D. Putra, V. Dedeoglu, S. S. Kanhere, and R. Jurdak
-  conference: 6th ACM/IEEE International Conference on Internet-of-Things Design and
-    Implementation (<b>IoTDI</b>), 2020.
-  badges: '<a href="https://doi.org/10.1109/IoTDI49375.2020.00035" onmouseout="this.style.backgroundColor=''#b91c1c'';
-    this.style.transform=''translateY(0px)''; this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  abstract: 'A decentralised, blockchain-based Collaborative Intrusion Detection System for IoT with accountable trust establishment and scalable Bloom-filter-based information storage.'
+  authors: '<strong>G. D. Putra</strong>, V. Dedeoglu, S. S. Kanhere, & R. Jurdak'
+  conference: 6th ACM/IEEE International Conference on Internet-of-Things Design and Implementation (<b>IoTDI</b>), 2020.
+  badges: '<a href="https://doi.org/10.1109/IoTDI49375.2020.00035" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a> <a href="https://arxiv.org/abs/2002.07512" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2020'
   title: Trust Management in Decentralized IoT Access Control System
   url: https://doi.org/10.1109/ICBC48266.2020.9169481
   image: placeholder.png
-  abstract: This paper presents a novel approach in its respective field. Please refer
-    to the full paper for detailed methodology and results.
-  authors: G. D. Putra, V. Dedeoglu, S. S. Kanhere, and R. Jurdak
-  conference: 2nd IEEE International Conference on Blockchain and Cryptocurrency,
-    (<b>ICBC</b>), 2020.
-  badges: '<font color="#FF1493">[AR: 22%, Best Paper Nominee]</font> <a href="https://doi.org/10.1109/ICBC48266.2020.9169481"
-    onmouseout="this.style.backgroundColor=''#b91c1c''; this.style.transform=''translateY(0px)'';
-    this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  abstract: 'A blockchain-based Trust and Reputation System that feeds directly into attribute-based access-control policy, enabling dynamic, self-adaptive IoT access rights.'
+  authors: '<strong>G. D. Putra</strong>, V. Dedeoglu, S. S. Kanhere, & R. Jurdak'
+  conference: 2nd IEEE International Conference on Blockchain and Cryptocurrency, (<b>ICBC</b>), 2020.
+  badges: '<span class="pub-metric pub-metric--accept">AR 22%</span> <span class="pub-metric pub-metric--award">Best Paper Nominee</span> <a href="https://doi.org/10.1109/ICBC48266.2020.9169481" class="pub-link pub-link--ieee" target="_blank" rel="noopener">IEEE Xplore</a> <a href="https://arxiv.org/abs/1912.10247" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
 - year: '2019'
-  title: 'When IoT Meets Blockchain: Building Trust-Based Decentralized IoT Authorization
-    System'
+  title: 'When IoT Meets Blockchain: Building Trust-Based Decentralized IoT Authorization System'
   url: https://www.engineering.unsw.edu.au/2019-postgraduate-research-symposium-abstracts#DFP02
   image: placeholder.png
-  abstract: UNSW Engineering is ranked 1st in Australia. Discover where can an Engineering
-    degree at UNSW take you and learn why our school is a global leader.
-  authors: G. D. Putra, V. Dedeoglu, S. S. Kanhere, and R. Jurdak
+  abstract: 'Postgraduate research symposium abstract outlining early-stage work on a trust-based decentralised authorisation architecture for blockchain-enabled IoT systems, presented at the UNSW Engineering Postgraduate Research Symposium.'
+  authors: '<strong>G. D. Putra</strong>, V. Dedeoglu, S. S. Kanhere, & R. Jurdak'
   conference: ' UNSW Engineering Postgraduate Research Symposium, 2019. '
-  badges: '<a href="https://www.engineering.unsw.edu.au/2019-postgraduate-research-symposium-abstracts#DFP02"
-    onmouseout="this.style.backgroundColor=''#b91c1c''; this.style.transform=''translateY(0px)'';
-    this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  badges: '<a href="https://www.engineering.unsw.edu.au/2019-postgraduate-research-symposium-abstracts#DFP02" class="pub-link pub-link--doi" target="_blank" rel="noopener">Symposium</a>'
 - year: '2019'
   title: A Trust Architecture for Blockchain in IoT
   url: https://doi.org/10.1145/3360774.3360822
   image: atrustarchitecture.png
-  abstract: This paper presents novel research and findings. Click the link to read
-    the full abstract and details.
-  authors: V. Dedeoglu, R. Jurdak, G. D. Putra, A. Dorri, and S. S. Kanhere
-  conference: ' 16th EAI International Conference on Mobile and Ubiquitous Systems
-    (<b>Mobiquitous</b>), 2019. '
-  badges: '<font color="#FF1493">[CORE A]</font> <a href="https://doi.org/10.1145/3360774.3360822"
-    onmouseout="this.style.backgroundColor=''#b91c1c''; this.style.transform=''translateY(0px)'';
-    this.style.boxShadow=''none''" onmouseover="this.style.backgroundColor=''#991b1b'';
-    this.style.transform=''translateY(-1px)''; this.style.boxShadow=''0 2px 4px rgba(0,0,0,0.2)''"
-    style="background-color: #b91c1c; color: white; padding: 4px 8px; border-radius:
-    4px; text-decoration: none; font-size: 12px; transition: all 0.2s ease;" target="_blank">arXiv</a>'
+  abstract: 'A layered architecture that improves end-to-end trust for blockchain-based IoT via data-trust and gateway-reputation modules, evaluated through simulated localisation and an end-to-end blockchain implementation.'
+  authors: 'V. Dedeoglu, R. Jurdak, <strong>G. D. Putra</strong>, A. Dorri, & S. S. Kanhere'
+  conference: ' 16th EAI International Conference on Mobile and Ubiquitous Systems (<b>Mobiquitous</b>), 2019. '
+  badges: '<span class="pub-metric pub-metric--rank">CORE A</span> <a href="https://arxiv.org/abs/1906.11461" class="pub-link pub-link--arxiv" target="_blank" rel="noopener">arXiv</a>'
