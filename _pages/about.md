@@ -32,6 +32,7 @@ Available _**student projects**_ are listed on this [page](https://gdputra.githu
 
 ## What's New
 
+- [July 2026] Received a **research grant** from the Directorate of Partnership and Global Relations, Universitas Gadjah Mada: [Joint Supervision Grants](https://kemitraan.ugm.ac.id/)!
 - [April 2026] I will be serving as the TPC of IEEE Blockchain Conference 2026, which would take place in France along with IEEE Cybermatics Congress. [Submit your paper](https://ieee-cybermatics2026.org/) by June 15!
 - [April 2026] Welcoming Hilya to our research team! Hilya will be working on his master's thesis about decentralized physical network infrastructures.
 - [February 2026] We have a new instagram account for [our lab](https://www.instagram.com/dsrlab.id). Please have a look!
